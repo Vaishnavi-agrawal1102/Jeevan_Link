@@ -1,0 +1,19 @@
+DFSI PREPROCESSING REPORT
+Original shape: (744, 3)
+Duplicate rows removed: 0
+Processed shape: (744, 3)
+
+Missing values:
+District_Name    0
+State_Name       0
+DFSI             1
+
+DFSI statistics:
+count    743.000000
+mean      13.588707
+std        2.928786
+min        4.244485
+25%       11.550111
+50%       14.147612
+75%       15.822673
+max       19.300564

@@ -1,0 +1,6 @@
+File,Exists,Rows,Columns,File_Size_KB
+sos_urgency_data_collection.csv,Yes,16,15,2.26
+sos_urgency_dataset_processed.csv,Yes,5016,40,2699.46
+sos_urgency_dataset_preprocessed.csv,Yes,5016,41,2748.47
+sos_urgency_dataset_encoded.csv,Yes,5016,22,255.85
+sos_urgency_final_validation_report.csv,Yes,7,2,0.18

@@ -1,0 +1,26 @@
+{
+    "original_records": 28837,
+    "disaster_message_records": 23821,
+    "sos_records_separated": 5016,
+    "direct_records_before_review": 10765,
+    "final_records": 10712,
+    "labels": [
+        "food",
+        "water",
+        "shelter",
+        "medical_help",
+        "medical_products",
+        "search_and_rescue",
+        "transport"
+    ],
+    "training_records": 8608,
+    "validation_records": 1041,
+    "testing_records": 1063,
+    "zero_label_records_retained": 7573,
+    "invalid_messages_removed": 6,
+    "non_direct_messages_excluded": 13050,
+    "id_conflict_rows_quarantined": 0,
+    "label_conflict_rows_quarantined": 8,
+    "cross_split_rows_quarantined": 16,
+    "duplicate_rows_removed": 29
+}

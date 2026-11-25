@@ -1,0 +1,19 @@
+id,message,genre,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,source_split,normalized_message
+5100.0,I would like to know the latest news.,direct,0,0,0,0,0,0,0,train,i would like to know the latest news
+7365.0,NOTES: This message isn't important.,direct,0,0,0,0,0,0,0,train,notes this message isn t important
+7502.0,I would like to know the last news?,direct,0,0,0,0,0,0,0,train,i would like to know the last news
+7523.0,I want to have more information about the earthquake.,direct,0,0,0,0,0,0,0,train,i want to have more information about the earthquake
+7650.0,information about the earthquake.,direct,0,0,0,0,0,0,0,train,information about the earthquake
+8381.0,this message is not important,direct,0,0,0,0,0,0,0,train,this message is not important
+9162.0,/''''''''@''''''''''''''''@ @''''' michou )) ''''''''''''cyclone,direct,0,0,0,0,0,0,0,train,michou cyclone
+9184.0,"I know speak english, can I get a job?",direct,0,0,0,0,0,0,0,train,i know speak english can i get a job
+9251.0,NOTES: this message is not important for my work,direct,0,0,0,0,0,0,0,train,notes this message is not important for my work
+9421.0,NOTES: this message is not important because this person want to play,direct,0,0,0,0,0,0,0,train,notes this message is not important because this person want to play
+9660.0,I want some informations about haiti.,direct,0,0,0,0,0,0,0,train,i want some informations about haiti
+10170.0,Call me when you get this message,direct,0,0,0,0,0,0,0,train,call me when you get this message
+10365.0,"NOTES: It's not necessary to translate this message, because this is a person that jorking.",direct,0,0,0,0,0,0,0,train,notes it s not necessary to translate this message because this is a person that jorking
+10702.0,NOTES: itis not important to translate,direct,0,0,0,0,0,0,0,train,notes itis not important to translate
+10745.0,NOTES: This message isn't clear.,direct,0,0,0,0,0,0,0,train,notes this message isn t clear
+10770.0,I need some information about the earthquake.,direct,0,0,0,0,0,0,0,train,i need some information about the earthquake
+14135.0,in my village after collapse of whole infrastructure due to flood the majority of people is homeless  in need of tents which are not available.,direct,0,0,1,0,0,0,0,train,in my village after collapse of whole infrastructure due to flood the majority of people is homeless in need of tents which are not available
+9778.0,please can I find some information,direct,0,0,0,0,0,0,0,validation,please can i find some information

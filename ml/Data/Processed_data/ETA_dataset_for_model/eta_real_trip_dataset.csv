@@ -1,0 +1,1 @@
+trip_id,request_latitude,request_longitude,rescue_team_latitude,rescue_team_longitude,route_distance_km,dispatch_time,arrival_time,actual_travel_minutes,rainfall,flood_severity

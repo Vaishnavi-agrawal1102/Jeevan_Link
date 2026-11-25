@@ -1,0 +1,17 @@
+id,message,genre,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,source_split,source_file
+1652,"please we need water, food and tents, we have 101 chlidren. .. please come rescue",direct,1,1,1,0,0,1,0,train,disaster_response_training_processed.csv
+1652,"please we need water, food and tents, we have 101 chlidren. .. please come rescue",direct,1,1,1,0,0,0,0,train,disaster_response_training_processed.csv
+3882,"I am in Carefour Feuilles, Dkayet neighborhood. We need potable water because diarrhea is rampant here and is undermining our health.",direct,0,1,0,0,0,0,0,train,disaster_response_training_processed.csv
+3882,"I am in Carefour Feuilles, Dkayet neighborhood. We need potable water because diarrhea is rampant here and is undermining our health.",direct,0,1,0,1,0,0,0,train,disaster_response_training_processed.csv
+8190,"here,i'm i don't find medicin just resting to die where i can find it?",direct,0,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+8190,"here,i'm i don't find medicin just resting to die where i can find it?",direct,0,0,0,1,1,0,0,train,disaster_response_training_processed.csv
+12416,"Wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets",direct,1,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+12416,"Wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets",direct,1,0,1,0,0,0,0,train,disaster_response_training_processed.csv
+16245,World Vision staff stationed in Jabouri immediately reached the mudslide area to offer assistance.,news,0,0,0,1,0,0,0,train,disaster_response_training_processed.csv
+16245,World Vision staff stationed in Jabouri immediately reached the mudslide area to offer assistance.,news,0,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+17553,The last locust infestation in the Central Asian republic was in 1995 and is expected to reoccur every four to five years.,news,0,0,0,1,0,0,1,train,disaster_response_training_processed.csv
+17553,The last locust infestation in the Central Asian republic was in 1995 and is expected to reoccur every four to five years.,news,0,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+25213,#NAME?,news,0,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+26062,#NAME?,news,0,0,0,0,0,0,0,train,disaster_response_training_processed.csv
+19448,#NAME?,news,0,0,0,0,0,0,0,validation,disaster_response_validation_processed.csv
+26309,#NAME?,news,0,0,0,1,1,0,0,test,disaster_response_test_processed.csv

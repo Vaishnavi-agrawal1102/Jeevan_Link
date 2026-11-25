@@ -1,0 +1,9 @@
+id,message,genre,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,source_split,normalized_message
+2742.0,I would like to know what is happening in the country,direct,0,0,0,1,0,0,0,train,i would like to know what is happening in the country
+3777.0,"The people of Saut D'eau need help, please help them",direct,0,0,1,0,1,0,1,train,the people of saut d eau need help please help them
+3780.0,the people of Saut d 'eau need help please help them,direct,0,0,0,0,0,0,0,train,the people of saut d eau need help please help them
+8857.0,NOTES: This is someone who is playing,direct,0,0,0,0,0,0,0,train,notes this is someone who is playing
+9200.0,NOTES: This is someone who is playing.,direct,0,1,0,1,0,0,0,train,notes this is someone who is playing
+14594.0,syed Mazahir Abbas Mouza Shahwali Tehsil Ali Pur District Muzaffar Garh About 300 Housholds. Starvation. No Rescue Team reached.,direct,0,0,0,1,0,0,1,train,syed mazahir abbas mouza shahwali tehsil ali pur district muzaffar garh about 300 housholds starvation no rescue team reached
+14595.0,syed Mazahir Abbas Mouza Shahwali Tehsil Ali Pur District Muzaffar Garh. About 300 Housholds. Starvation. No Rescue Team reached.,direct,0,0,0,0,0,1,0,train,syed mazahir abbas mouza shahwali tehsil ali pur district muzaffar garh about 300 housholds starvation no rescue team reached
+10178.0,I would like to know what is happening in the country.,direct,0,0,0,0,0,0,0,validation,i would like to know what is happening in the country

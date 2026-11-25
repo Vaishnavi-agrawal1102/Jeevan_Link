@@ -1,0 +1,16 @@
+{
+    "dataset_name": "SOS Urgency Dataset",
+    "number_of_records": 4154,
+    "number_of_columns": 19,
+    "target_column": "urgency_label",
+    "urgency_label_counts": {
+        "High": 1989,
+        "Critical": 1135,
+        "Medium": 945,
+        "Low": 85
+    },
+    "total_missing_values": 0,
+    "duplicate_rows": 0,
+    "constant_features": [],
+    "data_limitation": "Records and urgency labels are synthetic/rule-generated. Results describe this prototype dataset and do not establish real-world emergency prediction accuracy."
+}

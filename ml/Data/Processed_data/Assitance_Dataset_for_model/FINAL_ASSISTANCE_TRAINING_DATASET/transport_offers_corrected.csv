@@ -1,0 +1,3 @@
+id,message,genre,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,source_split,normalized_message,correction
+2062.0,I have a truck that fell with 3 men in it. I am wondering what will happen to us? We are in Zemich in Carrefour.,direct,0,0,0,0,0,0,1,train,i have a truck that fell with 3 men in it i am wondering what will happen to us we are in zemich in carrefour,Transport label changed from 1 to 0: clear volunteer/resource offer
+12620.0,I have a car and can deliver food ( or clothing if needed ) .,direct,1,0,0,0,0,0,1,train,i have a car and can deliver food or clothing if needed,Transport label changed from 1 to 0: clear volunteer/resource offer

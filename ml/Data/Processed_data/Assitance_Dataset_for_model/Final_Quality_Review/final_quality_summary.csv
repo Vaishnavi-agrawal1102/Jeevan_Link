@@ -1,0 +1,8 @@
+metric,value
+total_records,10712.0
+zero_label_records,7573.0
+zero_label_percentage,70.7
+search_and_rescue_positive,215.0
+transport_positive,210.0
+missing_values,0.0
+duplicate_rows,0.0

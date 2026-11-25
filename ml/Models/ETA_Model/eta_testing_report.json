@@ -1,0 +1,10 @@
+{
+    "model": "ETA Regression Model",
+    "algorithm": "Hist Gradient Boosting",
+    "test_records": 753,
+    "MAE_minutes": 1.6508373131658445,
+    "RMSE_minutes": 2.0957085518671716,
+    "R2_score": 0.9743845968836846,
+    "R2_percentage": 97.43845968836847,
+    "average_absolute_error_minutes": 1.6508373131658445
+}

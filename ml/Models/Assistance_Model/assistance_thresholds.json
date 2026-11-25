@@ -1,0 +1,9 @@
+{
+    "food": 0.58,
+    "water": 0.59,
+    "shelter": 0.58,
+    "medical_help": 0.65,
+    "medical_products": 0.63,
+    "search_and_rescue": 0.51,
+    "transport": 0.29
+}

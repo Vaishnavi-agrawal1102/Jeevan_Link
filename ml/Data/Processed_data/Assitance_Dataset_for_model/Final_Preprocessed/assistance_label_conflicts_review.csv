@@ -1,0 +1,9 @@
+id,message,genre,source_split,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,normalized_message
+1652.0,"please we need water, food and tents, we have 101 chlidren. .. please come rescue",direct,train,1,1,1,0,0,1,0,"please we need water, food and tents, we have 101 chlidren. .. please come rescue"
+1652.0,"please we need water, food and tents, we have 101 chlidren. .. please come rescue",direct,train,1,1,1,0,0,0,0,"please we need water, food and tents, we have 101 chlidren. .. please come rescue"
+3882.0,"I am in Carefour Feuilles, Dkayet neighborhood. We need potable water because diarrhea is rampant here and is undermining our health.",direct,train,0,1,0,0,0,0,0,"i am in carefour feuilles, dkayet neighborhood. we need potable water because diarrhea is rampant here and is undermining our health."
+3882.0,"I am in Carefour Feuilles, Dkayet neighborhood. We need potable water because diarrhea is rampant here and is undermining our health.",direct,train,0,1,0,1,0,0,0,"i am in carefour feuilles, dkayet neighborhood. we need potable water because diarrhea is rampant here and is undermining our health."
+8190.0,"here,i'm i don't find medicin just resting to die where i can find it?",direct,train,0,0,0,0,0,0,0,"here,i'm i don't find medicin just resting to die where i can find it?"
+8190.0,"here,i'm i don't find medicin just resting to die where i can find it?",direct,train,0,0,0,1,1,0,0,"here,i'm i don't find medicin just resting to die where i can find it?"
+12416.0,"Wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets",direct,train,1,0,0,0,0,0,0,"wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets"
+12416.0,"Wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets",direct,train,1,0,1,0,0,0,0,"wand to donate jackets , hot meals , non-perishable foods , towels , bed sheets"

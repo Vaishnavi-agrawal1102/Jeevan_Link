@@ -1,0 +1,13 @@
+Column,Role,Data_Type,Missing_Count
+people_affected,Input feature,float64,0
+people_trapped,Input feature,str,0
+injuries_reported,Input feature,str,0
+medical_emergency,Input feature,str,0
+water_level,Input feature,str,0
+building_condition,Input feature,str,0
+rescue_required,Input feature,str,0
+food_required,Input feature,str,0
+water_required,Input feature,str,0
+shelter_required,Input feature,str,0
+location_risk,Input feature,str,0
+urgency_label,Prediction target,str,0

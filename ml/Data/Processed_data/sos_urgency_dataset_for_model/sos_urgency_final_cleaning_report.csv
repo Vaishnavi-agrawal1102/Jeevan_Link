@@ -1,0 +1,12 @@
+Check,Result
+Input rows,5016
+Final rows,4154
+Final columns including target,19
+Final feature count,18
+Invalid target rows removed,0
+Exact duplicate rows removed,862
+Constant columns removed,3
+All-missing columns removed,0
+Missing feature values remaining,0
+Invalid urgency labels remaining,0
+Non-numeric feature columns remaining,0

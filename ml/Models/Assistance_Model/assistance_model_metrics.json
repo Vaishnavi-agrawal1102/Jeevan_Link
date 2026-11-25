@@ -1,0 +1,21 @@
+{
+    "validation_metrics": {
+        "subset_accuracy": 0.6792635658914729,
+        "micro_precision": 0.5109809663250366,
+        "micro_recall": 0.6763565891472868,
+        "micro_f1": 0.5821517931609674,
+        "macro_f1": 0.4864875978565012,
+        "hamming_loss": 0.06935215946843853
+    },
+    "test_metrics": {
+        "subset_accuracy": 0.6985781990521327,
+        "micro_precision": 0.5748987854251012,
+        "micro_recall": 0.7447552447552448,
+        "micro_f1": 0.6488956587966489,
+        "macro_precision": 0.5061870990445024,
+        "macro_recall": 0.6313821138211383,
+        "macro_f1": 0.5320313319427442,
+        "weighted_f1": 0.7154801701707886,
+        "hamming_loss": 0.06242383209207854
+    }
+}

@@ -1,0 +1,29 @@
+id,message,genre,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,source_split,normalized_message
+794.0,"we need food, and water please",direct,1,1,0,0,0,0,0,train,we need food and water please
+5115.0,I would like to know what is going on in the country,direct,0,0,0,0,0,0,0,train,i would like to know what is going on in the country
+5311.0,"Can you help me find a job, please?",direct,0,0,0,0,0,0,0,train,can you help me find a job please
+8355.0,You are registered as an SOS message recipient.,direct,0,0,0,0,0,0,0,train,you are registered as an sos message recipient
+8497.0,//// // @:@,direct,0,0,0,0,0,0,0,train,
+9211.0,"NOTES: It's not important, it's a person that jorking.",direct,0,0,0,0,0,0,0,train,notes it s not important it s a person that jorking
+9500.0,NOTES: It's not important to translate.,direct,0,0,0,0,0,0,0,train,notes it s not important to translate
+9534.0,NOTES: This message is not important to translate.,direct,0,0,0,0,0,0,0,train,notes this message is not important to translate
+9734.0,this message is not important to translate,direct,0,0,0,0,0,0,0,train,this message is not important to translate
+10313.0,We will tell you that from today the 4636 SMS service for information urgent,direct,0,0,0,0,0,0,0,train,we will tell you that from today the 4636 sms service for information urgent
+10800.0,informations about the earthquake.,direct,0,0,0,0,0,0,0,train,informations about the earthquake
+14057.0,I am a poor man i have youngr children But the local government says i am not eligible to receve watan card please issue watan card on my C.N.I.C no,direct,0,0,0,0,0,0,0,train,i am a poor man i have youngr children but the local government says i am not eligible to receve watan card please issue watan card on my c n i c no
+14410.0,new flood in jaffar abad after damaged Tori band,direct,0,0,0,0,0,0,0,train,new flood in jaffar abad after damaged tori band
+9218.0,NOTES: It's not important it's a person that jorking.,direct,0,0,0,0,0,0,0,validation,notes it s not important it s a person that jorking
+9378.0,this message is not important to translate.,direct,0,0,0,0,0,0,0,validation,this message is not important to translate
+9818.0,NOTES: this message is not important.this person is joking.,direct,0,0,0,0,0,0,0,validation,notes this message is not important this person is joking
+10938.0,We will tell you that from today the 4636 SMS service for information urgent.,direct,0,0,0,0,0,0,0,validation,we will tell you that from today the 4636 sms service for information urgent
+10958.0,NOTES: This message is not important to translate,direct,0,0,0,0,0,0,0,validation,notes this message is not important to translate
+11138.0,NOTES: it's not important to translate,direct,0,0,0,0,0,0,0,validation,notes it s not important to translate
+14058.0,I am a poor man i have youngr children But the local government says i am not eligible to receve watan card please issue watan card on my C.N.I.C no.,direct,0,0,0,0,0,0,0,validation,i am a poor man i have youngr children but the local government says i am not eligible to receve watan card please issue watan card on my c n i c no
+3609.0,Can you help me find a job please?,direct,0,0,0,0,0,0,0,test,can you help me find a job please
+4359.0,We need food and water please.,direct,1,1,0,0,0,0,0,test,we need food and water please
+7079.0,I would like to know what is going on in the country.,direct,0,0,0,0,0,0,0,test,i would like to know what is going on in the country
+8939.0,You are registered as an SOS message recipient,direct,0,0,0,0,0,0,0,test,you are registered as an sos message recipient
+9539.0,informations about the earthquake,direct,0,0,0,0,0,0,0,test,informations about the earthquake
+10899.0,NOTES: This message is not important. This person is joking.,direct,0,0,0,0,0,0,0,test,notes this message is not important this person is joking
+14329.0,.,direct,0,0,0,0,0,0,0,test,
+14409.0,new flood in jaffar abad after damaged Tori band.,direct,0,0,0,0,0,0,0,test,new flood in jaffar abad after damaged tori band

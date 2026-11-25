@@ -1,0 +1,12 @@
+DISTRICT FLOOD IMPACT PREPROCESSING REPORT
+Original shape: (732, 5)
+Empty columns removed: []
+Duplicate rows removed: 0
+Processed shape: (732, 5)
+
+Remaining missing values:
+Mean_Flood_Duration    11
+Dist_Name               0
+Human_fatality          0
+Human_injured           0
+Population              0

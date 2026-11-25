@@ -1,0 +1,11 @@
+DISTRICT FLOODED AREA PREPROCESSING REPORT
+Original shape: (732, 4)
+Empty columns removed: []
+Duplicate rows removed: 0
+Processed shape: (732, 4)
+
+Missing values after processing:
+Dist_Name                         0
+Percent_Flooded_Area              0
+Parmanent_Water                   0
+Corrected_Percent_Flooded_Area    0

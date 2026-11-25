@@ -1,0 +1,30 @@
+{
+    "original_input_rows": 10712,
+    "invalid_messages_removed": 0,
+    "non_direct_messages_excluded": 0,
+    "conflicting_ids_quarantined": 0,
+    "conflicting_label_rows_quarantined": 8,
+    "cross_split_duplicate_rows_quarantined": 28,
+    "duplicate_message_rows_removed": 18,
+    "transport_offer_labels_corrected": 2,
+    "final_dataset_rows": 10658,
+    "final_dataset_columns": 11,
+    "missing_values": 0,
+    "duplicate_messages": 0,
+    "zero_label_records": 7528,
+    "label_distribution": {
+        "food": 1798,
+        "water": 829,
+        "shelter": 1145,
+        "medical_help": 587,
+        "medical_products": 469,
+        "search_and_rescue": 214,
+        "transport": 206
+    },
+    "split_distribution": {
+        "train": 8571,
+        "test": 1055,
+        "validation": 1032
+    },
+    "output_file": "C:\\Users\\ishit\\jeevan_link_ml\\Data\\Processed_data\\Assitance_Dataset_for_model\\FINAL_ASSISTANCE_TRAINING_DATASET\\assistance_dataset_training_ready.csv"
+}

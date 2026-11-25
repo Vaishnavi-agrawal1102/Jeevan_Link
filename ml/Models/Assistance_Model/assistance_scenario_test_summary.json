@@ -1,0 +1,9 @@
+{
+    "total_scenarios": 14,
+    "exact_matches": 5,
+    "exact_match_rate": 0.35714285714285715,
+    "micro_precision": 0.5185185185185185,
+    "micro_recall": 0.9333333333333333,
+    "micro_f1": 0.6666666666666666,
+    "macro_f1": 0.6738095238095239
+}

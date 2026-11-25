@@ -1,0 +1,17 @@
+id,message,genre,source_split,food,water,shelter,medical_help,medical_products,search_and_rescue,transport,normalized_message
+1636.0,I would like to know when the aftershocks will end,direct,train,0,0,0,0,0,0,0,i would like to know when the aftershocks will end
+3655.0,Information on the earthquake.,direct,train,0,0,0,0,0,0,0,information on the earthquake.
+3724.0,We need help at delmas 75 across from kiskeya christian school. Tank u!,direct,train,0,0,0,0,0,0,0,we need help at delmas 75 across from kiskeya christian school. tank u!
+7264.0,NOTES: This message is not important,direct,train,0,0,0,0,0,0,0,notes: this message is not important
+8644.0,NOTES: this message is not complete,direct,train,0,0,0,0,0,0,0,notes: this message is not complete
+9105.0,8 @9q@@  5 m) 1A a!a ?aCYCLONE,direct,train,0,0,0,0,0,0,0,8 @9q@@ 5 m) 1a a!a ?acyclone
+9274.0,NOTES: This is not an important message.,direct,train,0,0,0,0,0,0,0,notes: this is not an important message.
+10032.0,NOTES: this message is not important because this person want to play.,direct,train,0,0,0,0,0,0,0,notes: this message is not important because this person want to play.
+3408.0,information on the earthquake.,direct,validation,0,0,0,0,0,0,0,information on the earthquake.
+9538.0,NOTES: This message is not important because this person want to play.,direct,validation,0,0,0,0,0,0,0,notes: this message is not important because this person want to play.
+9638.0,NOTES: This message is not complete,direct,validation,0,0,0,0,0,0,0,notes: this message is not complete
+9968.0,NOTES: this is not an important message.,direct,validation,0,0,0,0,0,0,0,notes: this is not an important message.
+2009.0,i would like to know when the aftershocks will end,direct,test,0,0,0,0,0,0,0,i would like to know when the aftershocks will end
+2579.0,We need help at delmas 75 across from kiskeya christian school. Tank u!,direct,test,0,0,0,0,0,0,0,we need help at delmas 75 across from kiskeya christian school. tank u!
+9239.0,8 @9q@@  5 m) 1A a!a ?aCYCLONE,direct,test,0,0,0,0,0,0,0,8 @9q@@ 5 m) 1a a!a ?acyclone
+9839.0,NOTES: this message is not important,direct,test,0,0,0,0,0,0,0,notes: this message is not important

@@ -1,0 +1,7 @@
+id,message,genre,source_split,food,water,shelter,medical_help,medical_products,search_and_rescue,transport
+14315.0,,direct,train,0,0,0,0,0,0,0
+25213.0,#NAME?,news,train,0,0,0,0,0,0,0
+26062.0,#NAME?,news,train,0,0,0,0,0,0,0
+14428.0,,direct,validation,0,0,0,0,0,0,0
+19448.0,#NAME?,news,validation,0,0,0,0,0,0,0
+26309.0,#NAME?,news,test,0,0,0,1,1,0,0

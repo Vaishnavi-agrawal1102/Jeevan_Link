@@ -1,0 +1,110 @@
+INDOFLOODS CATCHMENT CHARACTERISTICS REPORT
+Original shape: (155, 108)
+Empty columns removed: ['No. of Eigthorder Streams', 'Eighthorder Streams Length', 'Eighthorder Streams Mean Length', 'SeventhEighth Stream Length Ratio', 'SeventhEighth Bifurcation Ratio']
+Duplicate rows removed: 0
+Processed shape: (155, 103)
+
+Missing values by column:
+Seventhorder Streams Length            150
+No. of Seventhorder Streams            150
+Seventhorder Streams Mean Length       150
+SixthSeventh Stream Length Ratio       150
+Sixthseventh Bifurcation Ratio         150
+Sixthorder Streams Length              135
+No. of Sixthorder Streams              135
+FifthSixth Stream Length Ratio         135
+FifthSixth Bifurcation Ratio           135
+Sixthorder Streams Mean Length         135
+Fifthorder Streams Mean Length          97
+FourthFifth Stream Length Ratio         97
+Fifthorder Streams Length               97
+No. of Fifthorder Streams               94
+FourthFifth Bifurcation Ratio           94
+Fourthorder Streams Length              62
+ThirdForth Stream Length Ratio          62
+ThirdForth Bifurcation Ratio            62
+No. of Fourthorder Streams              62
+Fourthorder Streams Mean Length         62
+No. of Thirdorder Streams               20
+Thirdorder Streams Length               20
+SecondThird Bifurcation Ratio           20
+SecondThird Stream Length Ratio         20
+Thirdorder Streams Mean Length          20
+Secondorder Streams  Mean Length         5
+Secondorder Streams Length               5
+FirstSecond Stream Length Ratio          5
+No. of Secondorder Streams               4
+FirstSecond Bifurcation Ratio            4
+Maximal Flow Length                      0
+Catchment Length                         0
+Catchment Relief                         0
+Drainage Area                            0
+Downvalley Length                        0
+Catchment Perimeter                      0
+Sinuosity Index                          0
+GaugeID                                  0
+Stream Order                             0
+Firstorder Streams  Mean  Length         0
+Firstorder Streams Length                0
+Ruggedness Number                        0
+No. of Firstorder Streams                0
+Elongation Ratio                         0
+Circularity Ratio                        0
+Lemniscates Value                        0
+Drainage Texture                         0
+Drainage Density                         0
+Compactness Coefficient                  0
+Wandering Ratio                          0
+Fitness Ratio                            0
+Basin Magnitude                          0
+Channel Frequency                        0
+Drainage Intensity                       0
+Infiltration Number                      0
+Relief Ratio                             0
+Form Factor                              0
+Annual Mean Temperature                  0
+Mean Diurnal Range                       0
+Isothermality                            0
+Temperature Seasonality                  0
+Max Temperature of Warmest Month         0
+Min Temperature of Coldest Month         0
+Temperature Annual Range                 0
+Mean Temperature of Wettest Quarter      0
+Mean Temperature of Driest Quarter       0
+Mean Temperature of Warmest Quarter      0
+Mean Temperature of Coldest Quarter      0
+Annual Precipitation                     0
+Precipitation of Wettest Month           0
+Precipitation of Driest Month            0
+Precipitation Seasonality                0
+Precipitation of Wettest Quarter         0
+Precipitation of Driest Quarter          0
+Precipitation of Warmest Quarter         0
+Precipitation of Coldest Quarter         0
+KoppenGeiger Climate Type                0
+2015_GDP_PPP                             0
+2010_GDP_PPP                             0
+2005_GDP_PPP                             0
+2000_GDP_PPP                             0
+1995_GDP_PPP                             0
+1990_GDP_PPP                             0
+2010_GDP_PC_PPP                          0
+2015_GDP_PC_PPP                          0
+2005_GDP_PC_PPP                          0
+2000_GDP_PC_PPP                          0
+1995_GDP_PC_PPP                          0
+1990_GDP_PC_PPP                          0
+Night Light                              0
+Road Density                             0
+Urban percentage                         0
+2010_HDI                                 0
+2015_HDI                                 0
+2005_HDI                                 0
+2000_HDI                                 0
+1995_HDI                                 0
+1990_HDI                                 0
+Population Count                         0
+Population Density                       0
+Land cover                               0
+Soil type                                0
+lithology type                           0

@@ -1,0 +1,39 @@
+{
+    "algorithm": "One-vs-Rest Logistic Regression",
+    "text_vectorization": "TF-IDF",
+    "dataset_rows": 23753,
+    "feature_column": "message",
+    "number_of_labels": 7,
+    "label_names": [
+        "food",
+        "water",
+        "shelter",
+        "medical_help",
+        "medical_products",
+        "search_and_rescue",
+        "transport"
+    ],
+    "training_rows": 19045,
+    "validation_rows": 2326,
+    "testing_rows": 2382,
+    "classification_threshold": 0.5,
+    "validation_metrics": {
+        "accuracy_subset": 0.6534823731728289,
+        "micro_precision": 0.47922761849034523,
+        "micro_recall": 0.7152838427947599,
+        "micro_f1": 0.5739313244569026,
+        "macro_f1": 0.5341252640795331,
+        "hamming_loss": 0.07468369979118045
+    },
+    "test_metrics": {
+        "accuracy_subset": 0.6717044500419815,
+        "micro_precision": 0.5171428571428571,
+        "micro_recall": 0.7656514382402707,
+        "micro_f1": 0.6173260572987722,
+        "macro_precision": 0.47123237376118315,
+        "macro_recall": 0.7320183072012522,
+        "macro_f1": 0.5553099212721886,
+        "weighted_f1": 0.6440669435387477,
+        "hamming_loss": 0.06729039222741993
+    }
+}

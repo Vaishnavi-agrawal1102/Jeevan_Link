@@ -1,0 +1,15 @@
+scenario,message,expected_labels,predicted_labels,exact_match,correct_labels,missed_labels,extra_labels
+Food requirement,Our family has no food and we are starving. Please send food supplies.,food,"food, water",False,food,,water
+Water requirement,We urgently need clean drinking water. There is no water available in our village.,water,"food, water, transport",False,water,,"food, transport"
+Shelter requirement,The flood destroyed our house. We have nowhere to stay and need emergency shelter.,shelter,"shelter, search_and_rescue, transport",False,shelter,,"search_and_rescue, transport"
+Medical help,My father is seriously injured and needs a doctor and immediate medical treatment.,medical_help,medical_help,True,medical_help,,
+Medical products,"We urgently need medicines, bandages and medical supplies for injured people.",medical_products,"medical_help, medical_products",False,medical_products,,medical_help
+Search and rescue,Several people are trapped under the collapsed building. Please send a rescue team immediately.,search_and_rescue,search_and_rescue,True,search_and_rescue,,
+Transport requirement,We need an ambulance to transport injured people to the nearest hospital.,transport,medical_help,False,,transport,medical_help
+Food and water,Our village urgently needs food packets and clean drinking water after the cyclone.,"food, water","food, water",True,"food, water",,
+Multiple assistance requirements,"The flood destroyed our homes. We need food, drinking water, temporary shelter and medical assistance.","food, water, shelter, medical_help","food, water, shelter, medical_help, medical_products, transport",False,"food, medical_help, shelter, water",,"medical_products, transport"
+Rescue and medical emergency,People are trapped in the damaged building and several injured victims need rescue and medical treatment.,"search_and_rescue, medical_help","medical_help, search_and_rescue, transport",False,"medical_help, search_and_rescue",,transport
+Irrelevant general message,Hello everyone. I hope you are doing well. Have a wonderful day.,None,None,True,,,
+General information,The government announced a meeting about disaster awareness next week.,None,None,True,,,
+Volunteer resource offer,I have a car and can deliver food and water to affected families.,None,"food, water",False,,,"food, water"
+Road information,The main road is damaged after the earthquake and traffic is moving slowly.,None,transport,False,,,transport

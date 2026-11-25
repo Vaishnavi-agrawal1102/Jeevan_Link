@@ -1,0 +1,18 @@
+INDOFLOODS PRECIPITATION PREPROCESSING REPORT
+Original shape: (4548, 11)
+Empty columns removed: []
+Duplicate rows removed: 0
+Processed shape: (4548, 11)
+
+Missing values after processing:
+EventID    0
+T1d        0
+T2d        0
+T3d        0
+T4d        0
+T5d        0
+T6d        0
+T7d        0
+T8d        0
+T9d        0
+T10d       0

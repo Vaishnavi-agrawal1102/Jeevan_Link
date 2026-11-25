@@ -1,0 +1,4 @@
+source_split,food,water,shelter,medical_help,medical_products,search_and_rescue,transport
+test,201,97,123,69,46,8,30
+train,1426,664,924,452,371,183,154
+validation,173,71,100,69,53,24,26

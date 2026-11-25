@@ -1,0 +1,25 @@
+IFI FLOOD DATASET PREPROCESSING REPORT
+Original shape: (6876, 23)
+Completely empty columns removed: ['Location', 'Latitude', 'Longitude', 'Severity', 'Area Affected', 'Event Souce ID']
+Exact duplicate rows removed: 0
+Processed shape: (6876, 17)
+Processed CSV: C:\Users\ishit\jeevan_link_ml\Data\Processed_data\ifi_processed_Data\IFI_flood_events_processed.csv
+
+Remaining missing values:
+Human Displaced                      6774
+Animal Fatality                      6348
+Human injured                        5818
+Description of Casualties/injured    3609
+Extent of damage                     3121
+Human fatality                       3106
+District_LGD_Codes                    304
+State_Codes                           258
+Districts                              59
+Main Cause                             31
+Start Date                             20
+End Date                               20
+Duration(Days)                         19
+Unnamed: 0                              0
+UEI                                     0
+State                                   0
+Event Source                            0

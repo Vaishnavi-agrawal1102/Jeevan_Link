@@ -1,0 +1,8 @@
+scenario,predicted_eta_minutes
+Short route,10.27
+Medium route,45.68
+Long route,13.11
+Critical urgency,26.69
+High urgency,50.94
+Medium urgency,37.75
+Low urgency,20.06

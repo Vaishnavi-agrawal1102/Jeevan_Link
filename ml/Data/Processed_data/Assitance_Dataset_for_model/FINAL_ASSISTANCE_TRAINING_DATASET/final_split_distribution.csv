@@ -1,0 +1,6 @@
+,food,food,water,water,shelter,shelter,medical_help,medical_help,medical_products,medical_products,search_and_rescue,search_and_rescue,transport,transport
+,sum,count,sum,count,sum,count,sum,count,sum,count,sum,count,sum,count
+source_split,,,,,,,,,,,,,,
+test,200,1055,96,1055,123,1055,69,1055,46,1055,8,1055,30,1055
+train,1425,8571,662,8571,922,8571,449,8571,370,8571,182,8571,150,8571
+validation,173,1032,71,1032,100,1032,69,1032,53,1032,24,1032,26,1032

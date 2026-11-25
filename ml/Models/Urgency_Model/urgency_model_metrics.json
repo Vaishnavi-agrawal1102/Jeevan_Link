@@ -1,0 +1,19 @@
+{
+    "algorithm": "Random Forest Classifier",
+    "dataset_rows": 4154,
+    "feature_count": 18,
+    "classes": [
+        "Low",
+        "Medium",
+        "High",
+        "Critical"
+    ],
+    "train_rows": 2907,
+    "validation_rows": 623,
+    "test_rows": 624,
+    "validation_accuracy": 0.9983948635634029,
+    "validation_macro_f1": 0.9891228070175438,
+    "test_accuracy": 0.9967948717948718,
+    "test_macro_f1": 0.9871027416997898,
+    "test_weighted_f1": 0.9967618328596333
+}

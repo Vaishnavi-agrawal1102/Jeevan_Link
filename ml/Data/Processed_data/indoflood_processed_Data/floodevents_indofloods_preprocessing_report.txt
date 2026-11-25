@@ -1,0 +1,20 @@
+INDOFLOODS FLOOD EVENTS PREPROCESSING REPORT
+Original shape: (4548, 13)
+Empty columns removed: []
+Duplicate rows removed: 0
+Processed shape: (4548, 13)
+
+Missing values after processing:
+Flood Volume (cumec)        577
+Peak Discharge Q (cumec)    555
+Peak Discharge Date         555
+Start Date                    0
+EventID                       0
+Peak FL Date                  0
+Peak Flood Level (m)          0
+End Date                      0
+Num Peak FL                   0
+Event Duration (days)         0
+Time to Peak (days)           0
+Recession Time (day)          0
+Flood Type                    0

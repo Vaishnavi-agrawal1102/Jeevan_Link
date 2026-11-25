@@ -1,0 +1,12 @@
+{
+    "model_name": "Hist Gradient Boosting",
+    "target": "actual_travel_minutes",
+    "training_records": 4263,
+    "validation_records": 752,
+    "test_records": 753,
+    "total_features": 27,
+    "test_MAE_minutes": 1.650837313165845,
+    "test_RMSE_minutes": 2.0957085518671716,
+    "test_R2": 0.9743845968836846,
+    "random_state": 42
+}

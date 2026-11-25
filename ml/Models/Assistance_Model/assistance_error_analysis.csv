@@ -1,0 +1,462 @@
+category,error_type,message,probability
+food,False Positive,"we are in need of water, anti biotics, face masks and tents. we are at Lamentin 54, rue cocteau, carrefour",0.7480120807054516
+food,False Positive,We need medicine for Hypertension and tampons/pads and medicine for thee baby too.,0.6076344781502055
+food,False Positive,"Good evening people of Boulevard 15 Octobre, we are in need",0.6390479307044216
+food,False Positive,Please come help us. We want to live but can't do it alone. We are in K Foufey. We don't have anything and need anything to stay alive.,0.6704258631873156
+food,False Positive,There has been no authority since the earthquake on Tieremasse street in zone Saint-michel. People need food and water.,0.9430714637218696
+food,False Positive,"I live in Pont rouge, we dont have tents or drinkable water. We are many here",0.6733106043500232
+food,False Positive,We are in Jacmel. We need tents.,0.6908981803919322
+food,False Positive,why didn't you call me to give me food I am hungry,0.9212111052227792
+food,False Positive,We need the government CD in La Gonav. People in Sant Ebjeman by Jerusalem are dying.,0.6716733186061465
+food,False Positive,"We are in Carrefour, Acachon 32. We don't have water and medication in the hospital. Please help us.",0.8234575139134802
+food,False Positive,We are in the Maligue area we have nothing,0.745935682533402
+food,False Positive,"THE FOOD CARD COLOR CHANGED EVERY DAY,TO AVOID TRICKS",0.7176232135598427
+food,False Positive,we are in a campus who have 450 family.Since the earthquake we don't find anything and we are in emergency rigth now.So we can't stay anymore and ask for help.,0.6867803585964826
+food,False Positive,WHERE I FIND THAT FOOD? WE TELL ME TO WASH MY HANDS AFTER EATING.,0.6715017621654239
+food,False Positive,"Anything to do with food , food services , manning tables , etc",0.9812290921381674
+food,False Positive,would like to make food/ serve food,0.9570878989008922
+food,False Positive,"Dog beds for two dogs , Evo dry food ( chicken ) , new toys Both need a hair cut and cleaning",0.6918232104008047
+food,False Positive,"I have many towels ( large , as well as hand towels and wash cloths , ) small men 's hygiene products ( travel size ) I 'd like to donate . I also have some batteries to donate . If there is a need for these items , please let me know . Thank you .",0.6979031157537173
+food,False Positive,This hurricane was just an awful excuse for me to eat all the junk food in sight .,0.9624300448812628
+food,False Positive,"I am a chef and Carter 's who can prepare an , d organize serving food .",0.8268899206908783
+food,False Negative,"we do not have water, our house is compromised (cracked), we do not have a place where to sleep.",0.3938832002263698
+food,False Negative,"I need to let my family know that I am starving, they need to send me money. What Money transfer company is openin my area..",0.4615255366005406
+food,False Negative,"I'm hungry, That is why I am sending this message. ( no location provided )",0.4886950230005011
+food,False Negative,"Hello, think about me and if you can help in the sense that my business crashed, my house crashed and I didn't save anything at all so I am in the street, I am hungry, what can I do?",0.3479124415968803
+food,False Negative,"SOS, SOS. 27 month old child in difficulties at Cap-haitien. We need diapers, milk and protein. Thank you for your help.",0.2602292025303178
+food,False Negative,"Those people who will be in the provinces by the barrell, what did we plan for them? They have health and hunger, insecurity and expensive life problems",0.5715822221392393
+food,False Negative,"My child is dying of starvation, I have received nothing",0.3928654083969863
+food,False Negative,"my kids died, my house is destroyed. i'm beating..",0.1171765630462046
+food,False Negative,"I left Port-au-Prince, I came to Les Cayes. I never found (got) anything. Hunger is killing me. I feel like I can't take it any more",0.4767811825951757
+food,False Negative,"Someone who supposedly say where food is beeing distributed, I should go fight to get it, on top of that I won't get any. What can the law says about this case?",0.3180334791148247
+food,False Negative,this person wants to know if only the people with card can get food?,0.4990495492779792
+food,False Negative,"We have 63 people, about 457 people live in the neighborhood. We are hungry. Don't shame/humiliate me. I find this message. We can work together to help ourselves. We will be happy with whatever you give us.",0.5179254279883758
+food,False Negative,"IT LOOKS LIKE THE REAL VICTIMES DONT HAVE FOOD,THEY SELL IT FOR 50 GOURDES,THE RASTAS SMOKE POT",0.5454123522344789
+food,False Negative,"There are some victims at my house, we have eaten all we have.",0.3922081913602753
+food,False Negative,there is a one month old baby and the doctor told the mother not to nurse because the milk is bad. Please what should we do. We need milk for the baby.,0.2118576639205232
+food,False Negative,"WHAT CAN I DO WHEN THE FOOD IS FINISHED RIGHT IN FRONT OF ME,WHAT CAN I DO WITH THE CARD?",0.4066304134075192
+food,False Negative,"Hello, I'd like to know what number to call for the World Food Program, to thank them.",0.2775094777427562
+food,False Negative,I do not understand only you known as because I am hunger. cease lying me because I am really hunger.,0.5203383155452409
+food,False Negative,"We need tent, cover, rice. Uneted Nation never Help us since the earthquake, we live in Carre-four, Lapot street, We want to know if we are not victims, cause we never recieved any visit from the leaders to let us know what is about.",0.4837620395686893
+food,False Negative,me ever to find the rices that were distribute by the American. makes me find rices,0.1036654379541523
+food,False Negative,"My friends, good evening, I am in Cedep center on Cite soleil commune. We don't find anything yet. we need water, foods, shelters. We don't participate in anything yet.",0.5764121250499343
+food,False Negative,"united nations, we need some importans helps in the site ''baylod'' we need water, we need foods, clothes and shoes. we want to go to pray God in the church that is near us. please, please. it's important for us in the ''baylod''. thank you in advance",0.5628949128739822
+food,False Negative,I can cook and would be happy to try to provide meals or serve in a soup kitchen .,0.2513824010281759
+food,False Negative,"Meals on Wheels donated 50 meals , can anyone deliver additional meals tomorrow ?",0.4690022918495642
+food,False Negative,When and Where should hot meals be delivered this evening ? 11/3/12,0.3001799038488951
+food,False Negative,I have several items I can donate including : -a bassinet stroller -half a packet of preemie diapers -candles -paper towels -9volt batteries -size 14/16 maternity jeans -canned tuna and shrimp,0.4973822382654743
+food,False Negative,"In our village Kachipul flood has damaged alot our crops ,our homes and our income everything is finished but government haven't help us Location:vilage kachipul distt:kambr shadadkot please visit our city kachipul",0.5538200434119702
+water,False Positive,"URGENT, please help us, children and olders are dying from starvation. Please you have to come, we are downtown Leogane, rue ( street ) Danjour. Thank you",0.6603108949421586
+water,False Positive,There has been no authority since the earthquake on Tieremasse street in zone Saint-michel. People need food and water.,0.9627168485744556
+water,False Positive,"I live in Pont rouge, we dont have tents or drinkable water. We are many here",0.8788354988796346
+water,False Positive,"Thank you for your advice, however we do not have any water purification tablets",0.7361375550654055
+water,False Positive,We have a well that is dry.It got full again can we drink the water,0.8518726764192006
+water,False Positive,"WE need food, tents and healthcare in Port-de-Paix",0.6566268451450118
+water,False Positive,We are in the Maligue area we have nothing,0.6668374168948098
+water,False Positive,We are in Leogane. We need food and care. We are really in needs.,0.6721796545760905
+water,False Positive,thank you for the informations about the water,0.804282275539698
+water,False Positive,you must mistrust water that's sleeping,0.9374387994420872
+water,False Positive,Exist there several another means for the treatment of water.,0.9257556825050668
+water,False Positive,"Hot water ( for a shower/bath ) after two weeks , and heat .",0.9139201259094458
+water,False Positive,10 1 liter bottles of water in the east village,0.9291833469471454
+water,False Positive,"There are bed conditions in our area.we have unsuffient shelter,food and other facilities.there is dire need of food.we are looking NGOs and other or",0.8241025021974595
+water,False Negative,".. . event discussed national. People are not getting aid. Many people have already died because of hunger, thirst, psychological health problems, stress, espcially little. ..",0.2720581107290385
+water,False Negative,"Good evening, we would like to have aid, we live in La Plaine, Marraine 26. Our house is destroyed, we would fill our tank on the Montana ground but we can't because it's fissured. The water source is broken on. ..",0.490750547144021
+water,False Negative,"There is a disease in Jacmel Called Hunger, the markets are closed, the little corner stores are not open, there's no food or brevages,all the hospitals are closed. there's is only 1 laboratory that's working in the city.",0.235727595692314
+water,False Negative,"My house was destroyed and my father and my child died. I hear there are foreigners giving aid in the country, but i cannot find even a little water. My friends are supporting me.",0.4712040673969366
+water,False Negative,"We're at the 9th district of Leogane, the population there is dying of hunger, we have not shelter either",0.3466658914070376
+water,False Negative,"I'd like to know information about the water that they are giving out, because several people are taking them without permission cards.",0.4709559103951449
+water,False Negative,"We need a lot of aquatable at Petite Artibonite, because the waters are not clearn.",0.5071774249430222
+water,False Negative,"Hey,send for Haiti we don't send a water bag.I want to know if jesus wan't come in the earth for every body,cause i see in all the zone, our is more neglijed.",0.3878191493209977
+shelter,False Positive,"Clercine 24, impasse Cenor. . we need aide, we have nothing, the kids are starving to death. we need food, medicine and water. Please help us we cannot take it anymore",0.6403518886598595
+shelter,False Positive,"Hello, I do not have any death but we have lost everything, we have no food please find a way to help us",0.5882645053723684
+shelter,False Positive,"We want to thank Digicel for letting us send text messages. We are in Bois Moquette ( Upper Petion-Ville ), we have no destroyed house, but we need Water and Food, we lost our job, we lost people.",0.7340998038912221
+shelter,False Positive,"a country, I cannot function well. My house is located about 1km, when the heavy trucks pass by the house shakes! I have two small children, ( my wife. .. ) OR ( Mrs. .. . )",0.6070444967669946
+shelter,False Positive,"We are in Pamis-Aven. We need help, we have no food or water.",0.7533342378444811
+shelter,False Positive,"We are a family of thirteen people a mother a father eleven children we need food aid : water food bars of soap oil, financial help we live on Rue Chavannes Prolonge",0.69815502251915
+shelter,False Positive,My father's work is destroyed and there are many of us in the house. We were destitute before the catastrophe. My mom never worked. Please help us.,0.5984834986572449
+shelter,False Positive,I'm haitian doctor and i own an organization. i need medicine to help people near my house,0.7614902904914734
+shelter,False Positive,and in addition what time will it be possible for me to sleep in my house?,0.7924505672423289
+shelter,False Positive,when ca we sleep in our houses,0.7941197496556455
+shelter,False Positive,It's advised to airdrop food kits to rural houses and the slums. The silent are also hungry.,0.6110122162080917
+shelter,False Positive,"Hello digicel. We're at Delmas 40b, muso village. We have no food, no water. We can't do this anmore. Help us please.",0.6250765349567352
+shelter,False Positive,"Please, there are a whole bunch of people in Morne Lazar, museau, Delmas 60. in need of water food and medical help. we are bout 3000",0.6613570393980662
+shelter,False Positive,"We are located in Rue Jean Charles Fort National. We are 514 people. We need aid. Food, water and medication.",0.6814784059575195
+shelter,False Positive,"We need your help we need food, water and medical supplies in delmas 75 publin. Av P. Philipe street",0.8127972159102562
+shelter,False Positive,Please come help us. We want to live but can't do it alone. We are in K Foufey. We don't have anything and need anything to stay alive.,0.6379460077526373
+shelter,False Positive,"Help us, Digicel! The people of Mariani are dying. We have no food, clothes, money. What will we do. There are people with typhoid who are becoming very sick. Please help us.",0.6848988602056131
+shelter,False Positive,"Hello. Please we need aid : food, water. Come help us in the Centre D'Hebergement Alliance. ( Alliance Center Shelter )",0.9624115799215672
+shelter,False Positive,"I live in Pont rouge, we dont have tents or drinkable water. We are many here",0.8566104247039421
+shelter,False Positive,"I have an association, and i need help for my neighbors, but i don't know how it can be done",0.5829312957206789
+shelter,False Positive,"I am Pestel, there is no food, there is nothing. We are at Dipi's house, please, we are waiting for you",0.7310826616974436
+shelter,False Positive,I am in the tents at Delmas 29. We have not been helped. We need aid.,0.9522050776879696
+shelter,False Positive,"we have no foods ,no water please help us",0.8288205910245975
+shelter,False Positive,"My house was destroyed and my father and my child died. I hear there are foreigners giving aid in the country, but i cannot find even a little water. My friends are supporting me.",0.6878214446481079
+shelter,False Positive,They have not given us food in the area around my house near Marotiere 77. Where can I go to get food?,0.6703470947058007
+shelter,False Positive,I need food. I am at Champ de Mars. I need water.,0.5993990593860834
+shelter,False Positive,"We are in Carrefour, Acachon 32. We don't have water and medication in the hospital. Please help us.",0.6852742409873731
+shelter,False Positive,"i living At Mont Oje 5 km from Jacme we have food, water, medicine problem we don't have any can you send something for us here",0.7900373508954915
+shelter,False Positive,We are in the Maligue area we have nothing,0.631845846547216
+shelter,False Positive,"There are some victims at my house, we have eaten all we have.",0.8843459311599947
+shelter,False Positive,"WE ARE A SMALL ORG WHO HELPES SURVIVORS,WE NEED WATER,FOOD",0.6174788490932545
+shelter,False Positive,We are in Leogane. We need food and care. We are really in needs.,0.5846041056234754
+shelter,False Positive,The population who's sleeping at the street can catch orther sicks overcoat the children.,0.7092788271978611
+shelter,False Positive,"i dont have the tent, you joke me.",0.8454443524682019
+shelter,False Positive,"we not find nothing, and i have an orphanage under my responsible with all people in the street MBC imp.des #2!",0.7367265051507491
+shelter,False Positive,we are in a campus who have 450 family.Since the earthquake we don't find anything and we are in emergency rigth now.So we can't stay anymore and ask for help.,0.6657749263695403
+shelter,False Positive,"I need to make my pasport,My house has been destroyed.So what should I do? And I lost all my documents.",0.837306666041268
+shelter,False Positive,"united nations, we need some importans helps in the site ''baylod'' we need water, we need foods, clothes and shoes. we want to go to pray God in the church that is near us. please, please. it's important for us in the ''baylod''. thank you in advance",0.5853363098172504
+shelter,False Positive,I don't find covers to make house.,0.8802022468078328
+shelter,False Positive,I would like to know if realy people shouldn't sleep an our house?,0.6125178364836403
+shelter,False Positive,Csn we sleep inside the house dal Concrete.,0.6763909482412324
+shelter,False Positive,How much hours a student can spend under a family tent.,0.629972522110613
+shelter,False Positive,we don't have water in delma camp.,0.6910376555280072
+shelter,False Positive,The rain is stuping us from are sleep fontamara street 27 jeannot prola area  delwi dekayt,0.837325246191138
+shelter,False Positive,In the camp where i'm don't have toilet.,0.7490740332393305
+shelter,False Positive,"In our village, food and crops have destroyed, and we have no source of income and the government had not helped us",0.7840362799556488
+shelter,False Positive,"In our village Kachipul flood has damaged alot our crops ,our homes and our income everything is finished but government haven't help us Location:vilage kachipul distt:kambr shadadkot please visit our city kachipul",0.7842814993525449
+shelter,False Positive,MY HOME DESTROYED IN FLOOD I LIVE IN SHAH WASAWA TEH.ALIPUR DISTT.MUZAFAR GARH,0.7142058457278873
+shelter,False Negative,"Good evening, please come quickly to assist homeless victims who are in village of Morin, section of Taifer, municipality of K-Fou Carrefour. Thank you.",0.2950965740200825
+shelter,False Negative,"We're asking you please to bring everything that's possible. Food, clothse, water, money to save those people's lives. Where we are people died, houses fell",0.4139442943585615
+shelter,False Negative,"I have a child who's father is in a foreign country and doesn't take care of him, I have no house, , I have no food to give him",0.4654783045426923
+shelter,False Negative,I didn't tell the whole family this :  The reason I was saved awasn't harmed is because I was in the streets.  Right now I'm in the streets with this child. I can't live like this.,0.3192071195785675
+shelter,False Negative,"Hello, think about me and if you can help in the sense that my business crashed, my house crashed and I didn't save anything at all so I am in the street, I am hungry, what can I do?",0.5648594873539093
+shelter,False Negative,"When will I find that job because the earthquakes are not finished, when they finish I don't find ?notes? available beside me. When it's finished I don't have a house, it's rubble.",0.4898203039300921
+shelter,False Negative,"Under the trees is where i sleep, we reach carrefour so that we find more people on the road",0.4347632926626359
+shelter,False Negative,Person is worried as to what will become of the ruins of their houses if they leave the capital.,0.1876918064620597
+shelter,False Negative,No Location : People are starving. .. please do something to save us.,0.2405424862337039
+shelter,False Negative,WE DO NOT HAVE CLOTHES TO WEAR. OUR HOME IS DESTROYED. WE ARE IN KENSCOFF AROUND VIARD.,0.5208539245196174
+shelter,False Negative,(truncated) sleeping in the streets under a syringe and if rain falls everyone would be in so much trouble i am asking you to pass this message on. God bless everyone who works in Radio,0.5649159109710586
+shelter,False Negative,Hello Digicel. I'm looking for work. We have found food but haven't found a tent.,0.5545795128820028
+shelter,False Negative,Until when can enter our house with posed heads? When without fear?,0.4440500694834817
+shelter,False Negative,"They did not put in place a refugee center for these people who have been amputated with large injuries so that they could continue being taken care of. If not, these people are going to die. (They choose to send.. message truncated..)",0.2725471158889763
+shelter,False Negative,"Hello, if the message gets to you, we are having difficulties to get (supplies/things?) because of our children. Its very urgent that we get tents and medicine. what we should - then it is cut off",0.5532114274982693
+shelter,False Negative,Could we get a tarp - a tent would be even better - because I have my mother and one her arms ? is paralyzed -- she is still not doing well -- if possible please find a way to emessage cut off,0.5463309673911755
+shelter,False Negative,"Ruelle Canne--Sucre Prolongue, Carrefour. We need tentes, water, food.",0.4231862324881231
+shelter,False Negative,helllo there is a refuge in front of mariani 12 i would like to know what to do to find help for 220 famillies.,0.3395915482833481
+shelter,False Negative,"ONG tell: if you can't fix a tent well, ask that at a staff ONG, after you will try. when they do it, follow the exemple, and then you will fix it in your zone.",0.2884548924734404
+shelter,False Negative,"May God bless Haiti, and make it to be come a new country and comfort the orphans, deprive, with out shelter like me.",0.2911116068817469
+shelter,False Negative,"My friends, good evening, I am in Cedep center on Cite soleil commune. We don't find anything yet. we need water, foods, shelters. We don't participate in anything yet.",0.5696593211838722
+shelter,False Negative,I would like to know whether we can enter the house dal Concrete Is not fisire. earthquake ground will last longer thanks.,0.1465710155089495
+shelter,False Negative,"We did a large donation drive in our community . We have adult children and infant clothing , toys , nonperishable food , prepaid cell phone , pet supplies , baby supplies , blankets , winter gear , it is all seperated organized and boxed . We can deliver next sunday",0.5378793379207367
+medical_help,False Positive,"Clercine 24, impasse Cenor. . we need aide, we have nothing, the kids are starving to death. we need food, medicine and water. Please help us we cannot take it anymore",0.8913643226858254
+medical_help,False Positive,"We are in Delma a 1, in local pinson. We have a great need for food and water.",0.6516603789626979
+medical_help,False Positive,I am in Mole St. Nicolas. We have received alot of people who have arrived without anything. We badly need humanitarian aid to help these refugees.,0.799474078883558
+medical_help,False Positive,"Digicel, I'm in the community Baie de Henne. There are a lot of victims in the kapital there. We need food and water. We need underwear.",0.7774672367413745
+medical_help,False Positive,I'm haitian doctor and i own an organization. i need medicine to help people near my house,0.8018257702580014
+medical_help,False Positive,Please come see us we're in martissan 7 go straight the maniga street we need some place to sleep because we have a lot of children we need food also,0.6860787809337481
+medical_help,False Positive,"Committee bloc Sama ( cbs 18 ) in Delmas 18. We have sent many messgaes for help and we still haven't recieved anything. We need food, water and medication. we do not know who else to ask.",0.7143178020329198
+medical_help,False Positive,"URGENT, please help us, children and olders are dying from starvation. Please you have to come, we are downtown Leogane, rue ( street ) Danjour. Thank you",0.6970701135774046
+medical_help,False Positive,Road Oryol ( ?? ) Delmas 18 there's a collapsed house with lots of people. The sector is unlivable for the people who sleep there. Please help,0.6503825697706943
+medical_help,False Positive,Please help us. we don't have food or water. some of us are sick. We have taking shelter close to castera in Fontamara 27. Thank yoiu,0.7633134931254392
+medical_help,False Positive,Please held in the Cold River House of Mother St. Theresa there are 2 classes that have not been rescued there are people under there,0.6817531911514377
+medical_help,False Positive,"Hello. Please we need aid : food, water. Come help us in the Centre D'Hebergement Alliance. ( Alliance Center Shelter )",0.778542167387377
+medical_help,False Positive,I am in Ile la Vache. We have food problems because the number of people on the island has increased,0.6966746580440867
+medical_help,False Positive,"UNITECHD is an organization with problems dealing with the victims in the area. Rumours of help and donation are circulating widely, however, we have not received food, water, medicine nor tents.",0.8062372252668224
+medical_help,False Positive,"I NEED HELP ,I AM A AMOTHER WITH SMALL CHILDREN 4 AND 3 YEARS OLD",0.6616684067766576
+medical_help,False Positive,"We are in Carrefour, Acachon 32. We don't have water and medication in the hospital. Please help us.",0.9721410259803358
+medical_help,False Positive,We are in the Maligue area we have nothing,0.659311454282445
+medical_help,False Positive,"There are some victims at my house, we have eaten all we have.",0.6690507078130687
+medical_help,False Positive,"We need water, food. We are very hungry. I wrote but got no response. We have a 95 year old and an 18 month old with us. We have no food, no tent.",0.7599123139096324
+medical_help,False Positive,"We are in theastreet, please help us. We need food and plastic sheets sheltery. We have no water problems by the grace of God. There are others in the same situation too. I live in Leogane, rue Darboun at rue Machea.",0.7239710223634586
+medical_help,False Positive,"There are a lot of people who are in need, what do they have to do to successfully obtain aid?",0.7665368086453245
+medical_help,False Positive,"I AM A LAW STUDENT WE ARE A COMITY OF 5 PEOPLE WE TAKE CARE OF 4 STREETS WE WANT TO HELP ,AND WE NEED HELP TOO",0.6969602609840488
+medical_help,False Positive,"Good evening, we are located in the Marc area, close to Baradres. We need aide there are a lot of kids in a project nearby. Thank you already.",0.6825576216946844
+medical_help,False Positive,"WE ARE A SMALL ORG WHO HELPES SURVIVORS,WE NEED WATER,FOOD",0.7683414815971049
+medical_help,False Positive,We are in Leogane. We need food and care. We are really in needs.,0.7460320883905378
+medical_help,False Positive,"we are not sick, but we are hungry, we need help, they never send helps for us, we don't have shelter to sleep, do your best please.",0.725169418926297
+medical_help,False Positive,"We need of helps as : food, water, tent, toilet of any quality and others. We are locate at the Street of the mines.",0.6928447499784874
+medical_help,False Positive,"yes, we need help, food, water, shelter. please, help us!",0.677881681051866
+medical_help,False Positive,"We need a lot of aquatable at Petite Artibonite, because the waters are not clearn.",0.6978954441197528
+medical_help,False Positive,"We need a food they are living in the matisan, please help me.",0.8025889713320915
+medical_help,False Positive,"There are bed conditions in our area.we have unsuffient shelter,food and other facilities.there is dire need of food.we are looking NGOs and other or",0.6670371413511421
+medical_help,False Negative,"We are at Gressier we needs assistance right away. ASAP, Come help us.",0.3559902075951372
+medical_help,False Negative,"they are in a area near a mountain hungry, sick their is no water please remember us",0.4777641755056029
+medical_help,False Negative,"we are in need of water, anti biotics, face masks and tents. we are at Lamentin 54, rue cocteau, carrefour",0.3080775342696191
+medical_help,False Negative,There's no one to send me money,0.0468391977547398
+medical_help,False Negative,"I need a job too, but for now I need, food, water, and a tent. And I think that we need Psychologic help as well",0.5733800392819725
+medical_help,False Negative,We are the group Women in Democracy. Leogane has totally collapsed. We need help urgently.,0.6061790075453548
+medical_help,False Negative,I am a child. My leg is broken. Please send me some food so I don't die.,0.4362701621833351
+medical_help,False Negative,"The centre is in the Legliz de Dye de la nouvel ( God of the Word ). Sice the catastrophy we did not receive anything, we are dying of hunger, hunger is killing us.",0.1546070833177663
+medical_help,False Negative,"I'm a university student at the state university, studying nursing, the person who used to help me died on the 12th of january, please i need help",0.2075455801165548
+medical_help,False Negative,I have 2 people who are alive under some rubble. I do not know what to do. We live in Carrefour across the street from the local reeducation centre,0.5158135390132506
+medical_help,False Negative,"My child is dying of starvation, I have received nothing",0.4361458575298897
+medical_help,False Negative,"We're a group that's made a camp in an adventist church that's in Sarthe 53, next to the garage Graham, facing the Jordanian base. There's a lot of us, about 70. ..",0.2747468611338683
+medical_help,False Negative,the last earthquake I lost 4 people without counting an amputated foot,0.2317995903649233
+medical_help,False Negative,pleas send me a number that i can contact to find mediacal aid and other forms of aid.,0.3027140593094125
+medical_help,False Negative,I need information about aid and emergencies.,0.2792678771363104
+medical_help,False Negative,"There is a disease in Jacmel Called Hunger, the markets are closed, the little corner stores are not open, there's no food or brevages,all the hospitals are closed. there's is only 1 laboratory that's working in the city.",0.3367492491091325
+medical_help,False Negative,i want to give blood where do I go,0.3090564292386103
+medical_help,False Negative,I would like to get information on the earthquake,0.1309362505983439
+medical_help,False Negative,"how is the capital now, because i heard that there were people who were happy because there stores and institutions are still working",0.203244610340108
+medical_help,False Negative,I have no food in Pestel please send food for us.,0.1873049152446328
+medical_help,False Negative,We need the government CD in La Gonav. People in Sant Ebjeman by Jerusalem are dying.,0.5320819123088073
+medical_help,False Negative,we do not understand why we cant get a tent for kids that are 5 and 4 months old...last night it was raining on the kids,0.5951967842917325
+medical_help,False Negative,I need to where to put the dead bodies i am located in Carrefour.,0.2183177196972363
+medical_help,False Negative,Where can one find a card to get some rice and when is this ending?,0.1639462669328481
+medical_help,False Negative,"They did not put in place a refugee center for these people who have been amputated with large injuries so that they could continue being taken care of. If not, these people are going to die. (They choose to send.. message truncated..)",0.5940557049890107
+medical_help,False Negative,"WE need food, tents and healthcare in Port-de-Paix",0.183895214473291
+medical_help,False Negative,there is a one month old baby and the doctor told the mother not to nurse because the milk is bad. Please what should we do. We need milk for the baby.,0.5367449565707686
+medical_help,False Negative,I feel like about to pass out but I'm relying on you. who ever transmitting this message.,0.0977304511850368
+medical_help,False Negative,There are a lot of diseases from infection in haiti -- what should we do?,0.6063254896966312
+medical_help,False Negative,Where can the people in Saint-Marc who came from Port-au-Prince find food? We are hungry.,0.3373968306518141
+medical_help,False Negative,There is a man who need therapy. Where can he go? What can we do in this situation?,0.292691116423544
+medical_help,False Negative,"We live in Siloe, Impasse Blanchard. we don't have tents, we are homeless. We have made a request earlier to 4636, we never got a response. Please, think about us and do something.",0.119828465174544
+medical_help,False Negative,Where I need to get Tant and food?,0.4113028075913599
+medical_help,False Negative,I have my cousin who has a girlfriend with HIV. What kind of precautions can he take?,0.3347513257347802
+medical_help,False Negative,Please ask the Government to teardown the big building in front of Teleco in Grand Rue Port-au-Prince,0.0784524764868786
+medical_help,False Negative,"and if I had another problem in my eyes, me I have a problem in my eyes. how do have been able to help me?",0.23315179260592
+medical_help,False Negative,"Good afternoon!we are ok ? i want to tell you thank you for all informations. And either i have no it, how do i get to find one ? Good night God take care of you.",0.1326491379272342
+medical_help,False Negative,I would like to know where could I find a birth certificate if they start to give.,0.1965103222511859
+medical_help,False Negative,"if I have someone that lost his mind during the earthquake, where can I send this person?",0.3115994953110573
+medical_help,False Negative,"Salutation! Thank you very much for all your goods advices about health that you send me. The only thing, always remind that i have urgent need. There is a modification which made.",0.1952847604516703
+medical_help,False Negative,"I am asthmatic can't i take injection, what i have to do or what i suppose to take in the place of i wait your answer.",0.1940286202830398
+medical_help,False Negative,I have a child who is burned where must I go with him,0.2582218629324332
+medical_help,False Negative,I would like to donate a turkey for Thanksgiving to someone in need !,0.1372753745366265
+medical_help,False Negative,HELP IN HOUSE CONSTRACT- ION BOBIES R SUF ERING NAMONIA AND OTHER DESEASES,0.1629749324112945
+medical_help,False Negative,"Appeal-I need shelter homes, food, warm clothes, bed and gas-stove. Children and adults are getting sick in the tents due to chilling winter.",0.4504321494575015
+medical_products,False Positive,we are in need of food tentes corvers water money. we are in croix des missions/ route butte boyer in the churche mormon an. we are 50 people. pascale saint georges,0.7103607696606883
+medical_products,False Positive,"We're asking you please to bring everything that's possible. Food, clothse, water, money to save those people's lives. Where we are people died, houses fell",0.6643429955292905
+medical_products,False Positive,Please we need food and water and tents so that we can sleep. Please go look at Carrefour particularly in the area of Titus and Betem ( or Boten ). We need food because - Incomplete,0.6615700582775458
+medical_products,False Positive,"We need food, water. .. . The kids are sick, fever, flu. .. Help. .. We are @ Cote 28, rue Richard",0.7273283971055586
+medical_products,False Positive,"Help we need help we need, food, water and security, SOS they are going to kill us",0.7473555424604
+medical_products,False Positive,"We are in Pamis-Aven. We need help, we have no food or water.",0.6350914959957437
+medical_products,False Positive,"I need a job too, but for now I need, food, water, and a tent. And I think that we need Psychologic help as well",0.631319622163916
+medical_products,False Positive,"Please, there are a whole bunch of people in Morne Lazar, museau, Delmas 60. in need of water food and medical help. we are bout 3000",0.7737542693508297
+medical_products,False Positive,"we need water and food in Karaval, pye batis and solino, thank you",0.6614375770455975
+medical_products,False Positive,"Good evening people of Boulevard 15 Octobre, we are in need",0.6763806504706845
+medical_products,False Positive,"i living At Mont Oje 5 km from Jacme we have food, water, medicine problem we don't have any can you send something for us here",0.8667652094944523
+medical_products,False Positive,there is a one month old baby and the doctor told the mother not to nurse because the milk is bad. Please what should we do. We need milk for the baby.,0.6997148818055622
+medical_products,False Positive,"We need water, food. We are very hungry. I wrote but got no response. We have a 95 year old and an 18 month old with us. We have no food, no tent.",0.67204010937231
+medical_products,False Positive,"WE ARE A SMALL ORG WHO HELPES SURVIVORS,WE NEED WATER,FOOD",0.8440461431066272
+medical_products,False Positive,We are in Leogane. We need food and care. We are really in needs.,0.6908067981996423
+medical_products,False Positive,HELP ME WITH MY 9 KIDS WE NEED TENTS FOOD WATER MEDICS,0.6968965125951302
+medical_products,False Positive,There is hurricane we need help in tomazo.,0.640565319124951
+medical_products,False Positive,"We geet,the organisation for the good work for all haitian people:We that living in la sous tijo,for the city of canada we need some aids i think you could.",0.6703917555936568
+medical_products,False Positive,"We can donate clothing , towels , toys , and food",0.6782708326588783
+medical_products,False Positive,"Clothing , books , board games , hygiene products , bottles water , towels , home goods .",0.946083283276696
+medical_products,False Positive,"bleach , non-perishable food , blanket , pillow",0.6428092900349277
+medical_products,False Positive,Distribute food and supplies .,0.9320373845336553
+medical_products,False Positive,I have both clothing and non-perishable foods to donate .,0.6644638934064576
+medical_products,False Positive,"I have men and woman clothing plus 3-4t girl clothing , Toys , Non perishable food",0.7440799614814831
+medical_products,False Positive,I can also cook food or buy non perishable food and hygiene products . The site only let 's me pick one ! I do have clothes to give as well . Whatever is most needed or all .,0.8903886626351143
+medical_products,False Positive,"Stocking up on water , food and warm blankets .. Sandy 's gon na be a fierce one !",0.8326483570395756
+medical_products,False Positive,"There are bed conditions in our area.we have unsuffient shelter,food and other facilities.there is dire need of food.we are looking NGOs and other or",0.8040798580236073
+medical_products,False Negative,UN reports Leogane 80-90 destroyed. Only Hospital St. Croix functioning. Needs supplies desperately.,0.5641366658381387
+medical_products,False Negative,The baby's diapers are under the rubble along with the rubber nipples/baby bottles. We greatly need your strong hands.,0.4286742176757839
+medical_products,False Negative,"Help us, Digicel! The people of Mariani are dying. We have no food, clothes, money. What will we do. There are people with typhoid who are becoming very sick. Please help us.",0.2531728156094376
+medical_products,False Negative,i want to give blood where do I go,0.1400674458286911
+medical_products,False Negative,"WE need food, tents and healthcare in Port-de-Paix",0.3916647974129268
+medical_products,False Negative,"Hello, if the message gets to you, we are having difficulties to get (supplies/things?) because of our children. Its very urgent that we get tents and medicine. what we should - then it is cut off",0.5186939209270066
+medical_products,False Negative,I don't have water to keep clean,0.2335907801633121
+medical_products,False Negative,yes there's a old person who never find medicament,0.1098180240059708
+medical_products,False Negative,"4636:ONG SAYS IF YOU HAVE A MOSQUITO NET, USE IT WHEN YOU'RE SLEEPING.iT'S IMPORTANT,IT CAN HELP YOU TO DECREASE THE RISK TO ATTACK MALARIA.",0.1385556109083668
+medical_products,False Negative,"We are an organization in the are a of Mangeoire, Rue Garoute. There is some support that we still have not received like food distribution, treated water, hygiene material, etc.",0.5624202893462172
+medical_products,False Negative,"please pass this message with the ONG that place to give help in the style of casea we requiere help in area of Canapevert exactly for the cleanning of the toilets,and we requier also to place more toilets with the quantity of persons that need to use for urine daily.",0.2952208482185081
+medical_products,False Negative,"I greet everyone in the Utited States I thank you because I saw ADRA bring something for like 250 persons. We find, soap, tooth and towel.",0.2770238550072736
+medical_products,False Negative,"I am asthmatic can't i take injection, what i have to do or what i suppose to take in the place of i wait your answer.",0.069584210479018
+medical_products,False Negative,good morning unted nations today is five days since that we have a visit in the site baylod wonder that the foreign ones bear ourselves need ourselves the desefectants for the toillettes please it's a brother church is name joseph labon,0.1396703570732413
+medical_products,False Negative,Pull ups 4T-5T several packages A & D ointment latex free gloves first aid kits,0.506101826841876
+medical_products,False Negative,A few friends and I are happy to distribute meds,0.46178561036685
+search_and_rescue,False Positive,We are at Lycee Philippe Guerrier at les Cayes. We had to leave Port-au-Prince because of the bad odor and conditions of life in the capital. We need help please.,0.5996181386685964
+search_and_rescue,False Positive,"Im Haitian my husband is alive in Port au Prince my husband lost his work our pay family parts which USA Im not thereas house still remains, my house crushed making something",0.6470355496550865
+search_and_rescue,False Positive,we have transportation. call me -we need help.,0.7092822596347834
+search_and_rescue,False Positive,"At st Martin Street entrance Mariella street we need help we have no house, we need water, food. thanks",0.7825466972470434
+search_and_rescue,False Positive,I can't call my family cause i HAVE no minutes on my calling card. Please help me,0.5168382303027935
+search_and_rescue,False Positive,I was at Port-au-Prince I've been hit really hard by this and my mother who was my life died. I have received no aid please help me whichever way you can help me ( unclear due to I characters replacing the European chars ),0.696128359170946
+search_and_rescue,False Positive,"I wrote before, you didn't answer me. We are located at Carrefour Maren, there's a lot of death victims. We need help",0.6412970933938522
+search_and_rescue,False Positive,"We are in Pamis-Aven. We need help, we have no food or water.",0.8779099768038897
+search_and_rescue,False Positive,"We are a family of 15 members, 5 men 10 women, we need help because our home has collapsed.",0.746103202347381
+search_and_rescue,False Positive,I am a earthquake survivor. I lost my house and all my belonging. How can you help me.,0.5549299636222744
+search_and_rescue,False Positive,We are the group Women in Democracy. Leogane has totally collapsed. We need help urgently.,0.5854258009303952
+search_and_rescue,False Positive,"Please, there are a whole bunch of people in Morne Lazar, museau, Delmas 60. in need of water food and medical help. we are bout 3000",0.5738923339526043
+search_and_rescue,False Positive,Road Oryol ( ?? ) Delmas 18 there's a collapsed house with lots of people. The sector is unlivable for the people who sleep there. Please help,0.5236737726298498
+search_and_rescue,False Positive,"Good evening people of Boulevard 15 Octobre, we are in need",0.5454505511903924
+search_and_rescue,False Positive,"We need your help we need food, water and medical supplies in delmas 75 publin. Av P. Philipe street",0.5317813821779768
+search_and_rescue,False Positive,I'm unable - all of my family was killed I've been hit here in the street. Please help me,0.7334478870649932
+search_and_rescue,False Positive,We are in Croix de Bouquet - many of us have no food to eat please send help,0.5493414323860527
+search_and_rescue,False Positive,"I live in Pont rouge, we dont have tents or drinkable water. We are many here",0.595852439781283
+search_and_rescue,False Positive,People are under the rubbles. Some people are forced to close the streets. Please do something.,0.768187534232926
+search_and_rescue,False Positive,No Location : People are starving. .. please do something to save us.,0.5262229334666608
+search_and_rescue,False Positive,"People at Bigarat, in Damien are in trouble and are not yet visited by the authorities, nor the american, french or canadian missions. They need help.",0.5649168763370171
+search_and_rescue,False Positive,"we have no foods ,no water please help us",0.5496924891993111
+search_and_rescue,False Positive,"My house was destroyed and my father and my child died. I hear there are foreigners giving aid in the country, but i cannot find even a little water. My friends are supporting me.",0.5768324617862748
+search_and_rescue,False Positive,"my kids died, my house is destroyed. i'm beating..",0.5464605728035582
+search_and_rescue,False Positive,we need help at wayne 93 by carrefour,0.6767060226949311
+search_and_rescue,False Positive,"Hello we are located on Santo 2, extended we need help.",0.6920354936252567
+search_and_rescue,False Positive,I live in Lamanten 54 Enpas Nelson. We need help.,0.5877220930364065
+search_and_rescue,False Positive,We are in the Maligue area we have nothing,0.8471376793747453
+search_and_rescue,False Positive,"There are some victims at my house, we have eaten all we have.",0.7157829218076185
+search_and_rescue,False Positive,"We need water, food. We are very hungry. I wrote but got no response. We have a 95 year old and an 18 month old with us. We have no food, no tent.",0.6673470946306832
+search_and_rescue,False Positive,"We are in theastreet, please help us. We need food and plastic sheets sheltery. We have no water problems by the grace of God. There are others in the same situation too. I live in Leogane, rue Darboun at rue Machea.",0.5251807595595234
+search_and_rescue,False Positive,"Hello, i live in Tabarre. I'm a victim and i'm sleeping in the street. I have nothing please help me.",0.6143479516061188
+search_and_rescue,False Positive,"Good evening, we are located in the Marc area, close to Baradres. We need aide there are a lot of kids in a project nearby. Thank you already.",0.599864492282671
+search_and_rescue,False Positive,"WE ARE A SMALL ORG WHO HELPES SURVIVORS,WE NEED WATER,FOOD",0.514621584100722
+search_and_rescue,False Positive,WE NEED HELP PLEASE WHERE ARE YOU?,0.6950121906407284
+search_and_rescue,False Positive,"We are weary at Bwa Jalouzi(Petion ville)the authority forget us,we need help please.",0.5916044303923944
+search_and_rescue,False Positive,"MY SUIT CASE IS UNDER THE DEBRIS,HOW CAN I GET A NEW PASSEPORT?",0.634475116615801
+search_and_rescue,False Positive,"yes, we need help, food, water, shelter. please, help us!",0.5316546122950837
+search_and_rescue,False Positive,IS IT HEALTHY TO USE INSECTICIDE AGAINS MOSKITOES UNDER THE TEENS WERE BABIES ARE?,0.5451202462482007
+search_and_rescue,False Positive,we are in a campus who have 450 family.Since the earthquake we don't find anything and we are in emergency rigth now.So we can't stay anymore and ask for help.,0.5433916662599482
+search_and_rescue,False Positive,is there someone always under rubbish in Port-au-Prince?,0.6670726038392196
+search_and_rescue,False Positive,"our house has been destroyed because of flood and i cannot rebuilt it again and in very trouble i am, i have 3 small kids and my remaining family is in camp and bearing intense coldness",0.6004645496351542
+search_and_rescue,False Positive,"There are bed conditions in our area.we have unsuffient shelter,food and other facilities.there is dire need of food.we are looking NGOs and other or",0.5185870244913627
+search_and_rescue,False Positive,Umer kot: Sindh: Shelter and Camp needed as people are stranded due to flood:,0.5248193640080062
+search_and_rescue,False Negative,I MADE A MAP FIND THIS FAMILLY WE ARE 13 PEOPLE,0.166727166454532
+search_and_rescue,False Negative,i am stuck i am all the way in the countryside in the area of gros morne. i need help,0.3960986793606275
+search_and_rescue,False Negative,There is hurricane we need help in tomazo.,0.4781427163384631
+transport,False Positive,"SOS SOS, please provide police officers on the streets as they are very insecure",0.3862429466844531
+transport,False Positive,"People don't have no food neither, they would need to find some hot plates of food till they can",0.3005582555873435
+transport,False Positive,we are in need of food tentes corvers water money. we are in croix des missions/ route butte boyer in the churche mormon an. we are 50 people. pascale saint georges,0.2911949251194933
+transport,False Positive,"Clercine 24, impasse Cenor. . we need aide, we have nothing, the kids are starving to death. we need food, medicine and water. Please help us we cannot take it anymore",0.3978419732419055
+transport,False Positive,"The survivors of Pernier Fatima We have about 650 families who need food, tent, chothing, medicine and more. We have some people with broken bones, some who are dead ..",0.3780896072259072
+transport,False Positive,Please we need food and water and tents so that we can sleep. Please go look at Carrefour particularly in the area of Titus and Betem ( or Boten ). We need food because - Incomplete,0.3981193135301257
+transport,False Positive,"The people from cite Castro in Mais Gate 10, we need aid such as : food, water, tents and much more. we are about 3000 people in the area ( the area is the airport area )",0.2975189592231465
+transport,False Positive,"Good morning, I wrote a message. I do not know if you found it. I am asking ---",0.3011930310900794
+transport,False Positive,"At st Martin Street entrance Mariella street we need help we have no house, we need water, food. thanks",0.3925693111341259
+transport,False Positive,"a country, I cannot function well. My house is located about 1km, when the heavy trucks pass by the house shakes! I have two small children, ( my wife. .. ) OR ( Mrs. .. . )",0.2900104210580415
+transport,False Positive,"Please, we need water, food and tents to sleep in. Please help us out",0.3510212946775656
+transport,False Positive,"Help we need help we need, food, water and security, SOS they are going to kill us",0.3055275677779013
+transport,False Positive,"I wrote before, you didn't answer me. We are located at Carrefour Maren, there's a lot of death victims. We need help",0.3491742513343205
+transport,False Positive,"We are in Pamis-Aven. We need help, we have no food or water.",0.4020570941269339
+transport,False Positive,"I need a job too, but for now I need, food, water, and a tent. And I think that we need Psychologic help as well",0.3124521762896781
+transport,False Positive,"We are in Mapou Dampus leogane, claudel desir field, we are hungry and we go no help in leogane",0.3017990493871882
+transport,False Positive,To the US. I have lots of problems. My mother and father,0.347925418844446
+transport,False Positive,"Good evening, I live turbe, in Village Livia. My house has been destroyed with everything in it. I live in the yard. The neighborhood hasn't received any aid. Help, please help us.",0.3731417657657455
+transport,False Positive,"in the name of the young in action from Croix des missions, we are sollic . ..",0.3795277413361439
+transport,False Positive,"hello to you, please, i would like to know how to find care for my husband, he is fractured in hand and foot and cannot walk, thankyou",0.2903935681113699
+transport,False Positive,How many answers/aftershocks do we have?,0.5328909200466008
+transport,False Positive,I need information about the country. How are things today?,0.3663429205194292
+transport,False Positive,"Committee bloc Sama ( cbs 18 ) in Delmas 18. We have sent many messgaes for help and we still haven't recieved anything. We need food, water and medication. we do not know who else to ask.",0.322430005085249
+transport,False Positive,"Hello digicel. We're at Delmas 40b, muso village. We have no food, no water. We can't do this anmore. Help us please.",0.3581813522611557
+transport,False Positive,Information about the second earthquake.,0.4912603658132711
+transport,False Positive,Road Oryol ( ?? ) Delmas 18 there's a collapsed house with lots of people. The sector is unlivable for the people who sleep there. Please help,0.4498405831457885
+transport,False Positive,"we need water and food in Karaval, pye batis and solino, thank you",0.4986895113901189
+transport,False Positive,"Can you please help me, provide some information about the events.",0.3097366118824488
+transport,False Positive,"We are located in Rue Jean Charles Fort National. We are 514 people. We need aid. Food, water and medication.",0.5100989389683429
+transport,False Positive,"Good evening people of Boulevard 15 Octobre, we are in need",0.3764417867239609
+transport,False Positive,i don't have the means to live with a 4 month old baby i had a little bakery and it was destroyed i need to find a job,0.3351164853204358
+transport,False Positive,"I give thanks to God, bu my friends I have problems, Haitians have problems. I'm on the road in Cap Haitien and I don't even have water to drink",0.7116673726407661
+transport,False Positive,"Need to know if there's no other foreing hospital to help wounded, than the on in republican republic,",0.4073123687352867
+transport,False Positive,".. . event discussed national. People are not getting aid. Many people have already died because of hunger, thirst, psychological health problems, stress, espcially little. ..",0.3094752264787516
+transport,False Positive,"We are at 13 ruelle Larose. We have nothing to eat. We have no water, no tent where we can sleep. We are asking Digicel to help us. Thank you. We are counting on you.",0.5126990111238765
+transport,False Positive,There has been no authority since the earthquake on Tieremasse street in zone Saint-michel. People need food and water.,0.6479566370545371
+transport,False Positive,We are in Croix de Bouquet - many of us have no food to eat please send help,0.2944017842327147
+transport,False Positive,"Help us, Digicel! The people of Mariani are dying. We have no food, clothes, money. What will we do. There are people with typhoid who are becoming very sick. Please help us.",0.5614261431239366
+transport,False Positive,Please held in the Cold River House of Mother St. Theresa there are 2 classes that have not been rescued there are people under there,0.3546790497492082
+transport,False Positive,"I'm in carrefour, off paloma, Franclklin street, i haven't got any help since the 12th",0.4232488105389487
+transport,False Positive,"Hello. Please we need aid : food, water. Come help us in the Centre D'Hebergement Alliance. ( Alliance Center Shelter )",0.4417823599127477
+transport,False Positive,"I live in Pont rouge, we dont have tents or drinkable water. We are many here",0.3721426294990808
+transport,False Positive,"People in Thomazeau don't have anything to eat, especially in Hatte Cadete",0.2985533061333963
+transport,False Positive,"I'm hungry, a need for ity and ami in the inner court of Taba 3 Kazo. Please have pity on us.",0.5568001715767528
+transport,False Positive,"we are in petit goave at liberte avenue. we have no house, no shelter, no water, no food. .. please help",0.5936178321988552
+transport,False Positive,Is there any aid for Croix-des-Bouquets?,0.2921668115949087
+transport,False Positive,The people on the ground right now in Haiti are not helping out at all in my area.,0.3800740812255911
+transport,False Positive,"Until now people in the mountains are burning ( figuratively ). 3rd section in Jacmel valley hasn't received any aid. We have no food, no tents, there are a lot of people who've left Port-. ..",0.3314150102250454
+transport,False Positive,No Location : People are starving. .. please do something to save us.,0.5264600357385069
+transport,False Positive,"People in Bizoton, Delmas and Carrefour need help from you. They are waiting for you.",0.3011973769586143
+transport,False Positive,I am in Ile la Vache. We have food problems because the number of people on the island has increased,0.3141539095416717
+transport,False Positive,I am a pastor 41 of my people have lost their houses. . but right now we need food and clothes for them. please we need your help. the area is called Bwadom.,0.3892849101925534
+transport,False Positive,"People at Bigarat, in Damien are in trouble and are not yet visited by the authorities, nor the american, french or canadian missions. They need help.",0.3724952644300556
+transport,False Positive,We have a well that is dry.It got full again can we drink the water,0.3302478455752194
+transport,False Positive,"I am Pestel, there is no food, there is nothing. We are at Dipi's house, please, we are waiting for you",0.4004217280621995
+transport,False Positive,"Salutations, there are people under rubble on Avenue Pan Americaine in total communication.",0.3316598108754998
+transport,False Positive,I need information about aid and emergencies.,0.5531249059039007
+transport,False Positive,"or a carpet with a blanket to have shelter from dew and rain, if there's a neighbourhood that never gets or hears anything it's ours in Jivna 3. Please brother, pass this message along for us, we have a comitee.",0.3390471002320688
+transport,False Positive,We need help tp move the big rubbles. Will we receive assistance in the form of tractors for the big concrete chunks?,0.2958216868573571
+transport,False Positive,NOTES: Comment and political opinion. No emergency.,0.4800263493012741
+transport,False Positive,"IN ST March, people are starving and are sick,we are waiting for help..",0.3441706693129728
+transport,False Positive,"I NEED HELP ,I AM A AMOTHER WITH SMALL CHILDREN 4 AND 3 YEARS OLD",0.4934355591865639
+transport,False Positive,"we have no foods ,no water please help us",0.4110174422234752
+transport,False Positive,"I'm a christian, theologist, teacher and I live in Chatile, behind the big garden of green peas and manioc. I never received any help and I can't go and fight for it in the crowds.",0.3368986961489931
+transport,False Positive,"Please, if is possible, give me some prepaid phone card or top-up my mobile phone with minutes. I have to let my family know that I am still alive",0.3221402003995918
+transport,False Positive,No one has come to help us at Delmas 1.,0.4052487419461968
+transport,False Positive,.. about the answer but we don't have enough strength anymore to go and get ..,0.2978246884550227
+transport,False Positive,"My house was destroyed and my father and my child died. I hear there are foreigners giving aid in the country, but i cannot find even a little water. My friends are supporting me.",0.4352803686588727
+transport,False Positive,we need help at wayne 93 by carrefour,0.4551910895960497
+transport,False Positive,Are there any more earthquakes in Haiti?,0.4437448415690981
+transport,False Positive,"I NEED TO KNOW IF THE QUAKE WILLSTART AGAIN,PEOPLE ARE TALKING ABOUT IT",0.6234263858875154
+transport,False Positive,WHEN THE FLIGHT STARTING AGAIN TO FLORIDA,0.2989215527420136
+transport,False Positive,this person wants to know if only the people with card can get food?,0.3308315567258518
+transport,False Positive,The person would like to know where or which hospital the people that was hurt on the January 12 earthquake were sent out.,0.3138761553644876
+transport,False Positive,"Hello we are located on Santo 2, extended we need help.",0.3435727128845834
+transport,False Positive,"We are in Carrefour, Acachon 32. We don't have water and medication in the hospital. Please help us.",0.5466651710246805
+transport,False Positive,"We have 63 people, about 457 people live in the neighborhood. We are hungry. Don't shame/humiliate me. I find this message. We can work together to help ourselves. We will be happy with whatever you give us.",0.3473379868786489
+transport,False Positive,I live in Lamanten 54 Enpas Nelson. We need help.,0.3185782993756222
+transport,False Positive,"We need water, food. We are very hungry. I wrote but got no response. We have a 95 year old and an 18 month old with us. We have no food, no tent.",0.3486214296194927
+transport,False Positive,we will continue to hold on the Mato Haiti chery we will rebuild,0.3510814445549793
+transport,False Positive,"The people from La Voute, need water and food.",0.7291476266280428
+transport,False Positive,"We are in theastreet, please help us. We need food and plastic sheets sheltery. We have no water problems by the grace of God. There are others in the same situation too. I live in Leogane, rue Darboun at rue Machea.",0.5855700482172618
+transport,False Positive,"please declare the people on the head of the block (I think - translator) on Bolosse Avenue. They are shooting. Every night at 6pm, the people who live here have to give up the area. There are prisoners who came to hide here. Please save the people of Bolosse.",0.4438725189623946
+transport,False Positive,"Hello, i live in Tabarre. I'm a victim and i'm sleeping in the street. I have nothing please help me.",0.3114011497519399
+transport,False Positive,What about people who did get their dossier (file) being threated?,0.2907194511528083
+transport,False Positive,"Good evening, we are located in the Marc area, close to Baradres. We need aide there are a lot of kids in a project nearby. Thank you already.",0.4006080601201152
+transport,False Positive,"My friends, the population of Delmas 4 is starving. Do something for us, tell us where we can get a coupon to get food.",0.2976661147631981
+transport,False Positive,Please make it possible for me to have a job. I cannot seat and watch.I need to live. May God Bless you,0.3088727644514986
+transport,False Positive,"They are asking for electricity to be available 24 hours a day, the electric company EDH hasn't provided any electricity.",0.4483687969114071
+transport,False Positive,From limonade there's someone pain sulfur to the stomach. please help!,0.4018635982282003
+transport,False Positive,I need Information about Orphanage please,0.4510547189436394
+transport,False Positive,I need information about the earthquake.,0.4239380015727643
+transport,False Positive,"We are weary at Bwa Jalouzi(Petion ville)the authority forget us,we need help please.",0.4924599775834675
+transport,False Positive,People at avenue N said they want to know if the distribution of food is already finish? they don't find nothing.,0.3090020801215812
+transport,False Positive,"We need of helps as : food, water, tent, toilet of any quality and others. We are locate at the Street of the mines.",0.3080701326243648
+transport,False Positive,"We geet,the organisation for the good work for all haitian people:We that living in la sous tijo,for the city of canada we need some aids i think you could.",0.3696462729967154
+transport,False Positive,"We have only one shelter, we have about 3 others family living to gether, but we did a small youth mapping in our locality we found about 113 people living in the same situation",0.3332229460057052
+transport,False Positive,Some information about the earthquake.,0.3346235236490993
+transport,False Positive,"Please, give me some informations about the cyclon.",0.6363740288961157
+transport,False Positive,we hope that other people going to have this message because people still cannot drink water cause the water is contamined,0.4234915212756554
+transport,False Positive,"We need a food they are living in the matisan, please help me.",0.3016488301470042
+transport,False Positive,I'm a victim I find no help ever,0.4915155133188477
+transport,False Positive,"Hi, ladies and gentlemen, I am a victim of the January 12th. The rain gives me many troubles. How can you help me to find a shelter, even a carpet I don't have.",0.4964867196357111
+transport,False Positive,abaout the help to ask you. i d'ont have find the answer what succesfully and nothing more.,0.345823287063642
+transport,False Positive,"May God bless Haiti, and make it to be come a new country and comfort the orphans, deprive, with out shelter like me.",0.3707103499005975
+transport,False Positive,What the Education Minter says about the pupil who loose their slip for the official exam. thanks for the answer.,0.4757880429478732
+transport,False Positive,"Please, avoid giving the raised hand to Haitians to rebuild the country! they can't separate the aid, how will they rebuild Haiti? if a group of 10 foreigners, I'd be happy to see only one Haitian in the group. if the country falls into the hands of Haitian misery will destroy the people. thank you! Farewell, Haiti!",0.3335799911628644
+transport,False Positive,"Radio 1 Hi, I am a great plug from the area in Mirebalais Carrefou-Peligre I'm good Dj Anouce SUNDAY.",0.3200632778698293
+transport,False Positive,Have they a date the replies will finish?,0.3961497023768333
+transport,False Positive,Is the earthquake possible again.,0.4061196655527199
+transport,False Positive,I need to know how the official exams will be this year.,0.4418183964926993
+transport,False Positive,"GOOD EVENING! MY FRIEND HOW YOU LAST THE DAY, GOOD NIGHT",0.3344269716084896
+transport,False Positive,We need tent indelmas 18 because we don't find nothing in the area.,0.6392862767805159
+transport,False Positive,Is that right they will have earthquake once again?,0.311431338325056
+transport,False Positive,is possible to have a tsunamis at Jeremie?,0.3672846325073939
+transport,False Positive,"good morning louko,i'm joneldi hearing the radio at adelma 33. big up saint pierre for me.please",0.3010000334599611
+transport,False Positive,i want to know how many people died after 12,0.4850307939509178
+transport,False Positive,could people enter rooms that was made in concrete and whish not crack? cause the wind's blows out.,0.3073028976824162
+transport,False Positive,"We are hungry, thirsty, we sleep under the stars has always, because our homes are destroyed, help us in the new haiti we would like to participate, I just to let you know that the people have the vilage solidarity serious problem for the lack of water for four days.",0.3280999293715174
+transport,False Positive,We can bring prepared food and kid snacks .,0.3341333472552859
+transport,False Positive,i 'm also good with food prep if there 's a need to feed people out there,0.4171969635983487
+transport,False Positive,"Clothing , books , board games , hygiene products , bottles water , towels , home goods .",0.292212486267995
+transport,False Positive,Distribute food and supplies .,0.2929526042636651
+transport,False Positive,I can also cook food or buy non perishable food and hygiene products . The site only let 's me pick one ! I do have clothes to give as well . Whatever is most needed or all .,0.3404831344634156
+transport,False Positive,"Stocking up on water , food and warm blankets .. Sandy 's gon na be a fierce one !",0.3934468260982424
+transport,False Positive,"I have many towels ( large , as well as hand towels and wash cloths , ) small men 's hygiene products ( travel size ) I 'd like to donate . I also have some batteries to donate . If there is a need for these items , please let me know . Thank you .",0.3077429505999564
+transport,False Positive,Taking this storm as a learning experience . Still no power .. getting kind of scary .,0.3353852801443758
+transport,False Positive,"I can distribute food and/or goods , cook , provide Reiki ( relaxation therapy ) , check on residents , organize , provide graphic design work",0.2911733943015575
+transport,False Positive,"I m not permanent resident of District jaffarabad Balochistan but due to Govt, service i m residing here since last year and due to flood i hv also received loss. Whether i can eligible for Watan card or not ? ? Qadir shah from D.a.yar jafarabad",0.3803129889780653
+transport,False Positive,MY HOME DESTROYED IN FLOOD I LIVE IN SHAH WASAWA TEH.ALIPUR DISTT.MUZAFAR GARH,0.5527733839019415
+transport,False Positive,"There are bed conditions in our area.we have unsuffient shelter,food and other facilities.there is dire need of food.we are looking NGOs and other or",0.4496207533212724
+transport,False Negative,"We are at Gressier we needs assistance right away. ASAP, Come help us.",0.1990073126518638
+transport,False Negative,There's no one to send me money,0.082259172564021
+transport,False Negative,We are the group Women in Democracy. Leogane has totally collapsed. We need help urgently.,0.2604425478584629
+transport,False Negative,"The centre is in the Legliz de Dye de la nouvel ( God of the Word ). Sice the catastrophy we did not receive anything, we are dying of hunger, hunger is killing us.",0.06175330616781
+transport,False Negative,"I'm a university student at the state university, studying nursing, the person who used to help me died on the 12th of january, please i need help",0.1669324942945932
+transport,False Negative,"I just want to know when they are going to start fix things like roads, light and electricity",0.1701540607306504
+transport,False Negative,I have 2 people who are alive under some rubble. I do not know what to do. We live in Carrefour across the street from the local reeducation centre,0.2181686175410015
+transport,False Negative,"We're a group that's made a camp in an adventist church that's in Sarthe 53, next to the garage Graham, facing the Jordanian base. There's a lot of us, about 70. ..",0.1005073369899947
+transport,False Negative,"The people of ? need roads, electricity, medicine because there's an epidemic attacking them",0.2722384793373845
+transport,False Negative,i want to give blood where do I go,0.0667201741065235
+transport,False Negative,I would like to get information on the earthquake,0.0665351826689263
+transport,False Negative,this person wants to know who is responsible for cleaning the streets.,0.1617018888041981
+transport,False Negative,"how is the capital now, because i heard that there were people who were happy because there stores and institutions are still working",0.1435080710205198
+transport,False Negative,I have no food in Pestel please send food for us.,0.1147171025634073
+transport,False Negative,we do not understand why we cant get a tent for kids that are 5 and 4 months old...last night it was raining on the kids,0.2652948128010836
+transport,False Negative,I need to where to put the dead bodies i am located in Carrefour.,0.1847764067322317
+transport,False Negative,Where can one find a card to get some rice and when is this ending?,0.0887432705973167
+transport,False Negative,Where can the people in Saint-Marc who came from Port-au-Prince find food? We are hungry.,0.0878752677727815
+transport,False Negative,"We live in Siloe, Impasse Blanchard. we don't have tents, we are homeless. We have made a request earlier to 4636, we never got a response. Please, think about us and do something.",0.114208887171467
+transport,False Negative,Please ask the Government to teardown the big building in front of Teleco in Grand Rue Port-au-Prince,0.0711086277106511
+transport,False Negative,"Good afternoon!we are ok ? i want to tell you thank you for all informations. And either i have no it, how do i get to find one ? Good night God take care of you.",0.0873494010957559
+transport,False Negative,I would like to know where could I find a birth certificate if they start to give.,0.0799687384540056
+transport,False Negative,I would like to donate a turkey for Thanksgiving to someone in need !,0.0708110482253832
+transport,False Negative,VILLAGE SAHIB KHAN SOLANGI totally damaged,0.080357873952768

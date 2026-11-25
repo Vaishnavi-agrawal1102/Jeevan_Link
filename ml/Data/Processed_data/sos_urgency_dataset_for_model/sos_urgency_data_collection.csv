@@ -1,0 +1,17 @@
+sos_id,sos_description,people_affected,people_trapped,injuries_reported,medical_emergency,water_level,building_condition,rescue_required,food_required,water_required,shelter_required,location_risk,urgency_label,record_source
+SOS0001,Four people trapped on a roof as water rises rapidly.,4,Yes,No,No,Rapidly_Rising,Intact,Yes,No,Yes,No,High,Critical,synthetic
+SOS0002,An elderly person is unconscious in a flooded house.,1,Yes,Yes,Yes,Rising,Damaged,Yes,No,No,No,High,Critical,synthetic
+SOS0003,A child is trapped in fast-moving floodwater.,1,Yes,No,No,Rapidly_Rising,Unknown,Yes,No,No,No,High,Critical,synthetic
+SOS0004,Several people are trapped inside a collapsing flooded building.,6,Yes,Yes,No,Rising,Damaged,Yes,No,No,Yes,High,Critical,synthetic
+SOS0005,Water is entering the ground floor and a family needs evacuation.,5,No,No,No,Rising,Intact,Yes,No,Yes,Yes,High,High,synthetic
+SOS0006,An injured resident needs urgent transport to medical care.,1,No,Yes,Yes,Stable,Intact,Yes,No,No,No,Medium,High,synthetic
+SOS0007,A family is stranded by floodwater with no safe exit.,4,No,No,No,Rising,Intact,Yes,No,Yes,No,High,High,synthetic
+SOS0008,A damaged house may not be safe to occupy during continued flooding.,3,No,No,No,Stable,Damaged,No,No,No,Yes,High,High,synthetic
+SOS0009,A family needs drinking water after the flood disrupted supplies.,4,No,No,No,Stable,Intact,No,No,Yes,No,Medium,Medium,synthetic
+SOS0010,Two residents need dry blankets and temporary shelter.,2,No,No,No,Stable,Intact,No,No,No,Yes,Medium,Medium,synthetic
+SOS0011,A household has run out of food but is in a safe location.,5,No,No,No,Stable,Intact,No,Yes,No,No,Low,Medium,synthetic
+SOS0012,A resident needs routine medical supplies after relocating to safety.,1,No,No,No,Stable,Intact,No,No,No,No,Low,Medium,synthetic
+SOS0013,A household requests replacement drinking water for tomorrow.,3,No,No,No,Stable,Intact,No,No,Yes,No,Low,Low,synthetic
+SOS0014,A resident requests information about an available relief centre.,1,No,No,No,Stable,Intact,No,No,No,No,Low,Low,synthetic
+SOS0015,A family in a safe shelter requests extra blankets.,4,No,No,No,Stable,Intact,No,No,No,Yes,Low,Low,synthetic
+SOS0016,A household requests information about future food distribution.,3,No,No,No,Stable,Intact,No,Yes,No,No,Low,Low,synthetic

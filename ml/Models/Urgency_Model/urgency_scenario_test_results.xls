@@ -1,0 +1,5 @@
+Scenario,Predicted_Urgency,Highest_Probability
+Critical Scenario,Critical,98.19
+High Scenario,High,88.8
+Medium Scenario,Medium,99.12
+Low Scenario,Low,93.78

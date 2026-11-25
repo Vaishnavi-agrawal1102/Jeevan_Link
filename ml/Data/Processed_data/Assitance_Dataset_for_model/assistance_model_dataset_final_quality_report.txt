@@ -1,0 +1,36 @@
+Jeevan Link - Assistance Model Preprocessing Report
+=======================================================
+Initial rows: 23821
+Invalid-label rows removed: 0
+Conflicting message groups: 7
+Rows in conflicting groups: 16
+Duplicate rows removed after conflict handling: 50
+Final rows: 23753
+Final columns: 12
+
+Validation checks:
+PASS: No missing values
+PASS: No empty messages
+PASS: No duplicate normalized messages
+PASS: No duplicate IDs
+PASS: All labels are binary
+PASS: No conflicting message groups
+PASS: All source splits preserved
+PASS: Saved CSV matches in-memory dataset shape
+
+Rows by source split:
+source_split
+train         19045
+test           2382
+validation     2326
+
+Positive label counts:
+food                 2806
+water                1621
+shelter              2258
+medical_help         2001
+medical_products     1261
+search_and_rescue     656
+transport            1079
+
+Note: Structural checks do not prove semantic correctness of the original labels or guarantee model performance.
