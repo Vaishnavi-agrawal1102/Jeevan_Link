@@ -101,7 +101,7 @@ const Register = () => {
       </h1>
 
       <p className="mt-1 text-sm text-ink/60">
-        Choose the role that fits how you'll use JalRakshak.
+        Choose the role that fits how you'll use JeevanLink.
       </p>
 
       <form onSubmit={handleSubmit} className="card mt-6 space-y-4">

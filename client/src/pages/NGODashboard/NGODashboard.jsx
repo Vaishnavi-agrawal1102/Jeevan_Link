@@ -16,8 +16,29 @@ const NGODashboard = () => {
     body: "",
   });
 
+  const [shelterForm, setShelterForm] = useState({
+    name: "",
+    district: user?.district || "",
+    address: "",
+    capacity: "",
+    lng: "",
+    lat: "",
+    contactPhone: "",
+    facilities: "",
+  });
+  const [resourceForm, setResourceForm] = useState({
+  name: "",
+  category: "food",
+  quantity: "",
+  unit: "packets",
+  district: user?.district || "",
+});
+
+const [creatingResource, setCreatingResource] = useState(false);
+
   const [responseForms, setResponseForms] = useState({});
   const [posting, setPosting] = useState(false);
+  const [creatingShelter, setCreatingShelter] = useState(false);
   const [loadingRequests, setLoadingRequests] = useState(false);
   const [updatingRequest, setUpdatingRequest] = useState(null);
 
@@ -115,6 +136,120 @@ const NGODashboard = () => {
     }
   };
 
+  const handleCreateShelter = async (e) => {
+    e.preventDefault();
+
+    const { name, district, address, capacity, lng, lat } = shelterForm;
+
+    if (!name.trim() || !district.trim() || !address.trim()) {
+      toast.error("Please fill in all required fields");
+      return;
+    }
+
+    const capacityNumber = Number(capacity);
+    const longitude = Number(lng);
+    const latitude = Number(lat);
+
+    if (
+      !Number.isInteger(capacityNumber) ||
+      capacityNumber < 1 ||
+      !Number.isFinite(longitude) ||
+      longitude < -180 ||
+      longitude > 180 ||
+      !Number.isFinite(latitude) ||
+      latitude < -90 ||
+      latitude > 90
+    ) {
+      toast.error("Please enter valid capacity and coordinates");
+      return;
+    }
+
+    setCreatingShelter(true);
+
+    try {
+      await apiClient.post("/shelter", {
+        name: name.trim(),
+        district: district.trim(),
+        address: address.trim(),
+        capacity: capacityNumber,
+        lng: longitude,
+        lat: latitude,
+        contactPhone: shelterForm.contactPhone.trim(),
+        facilities: shelterForm.facilities
+          .split(",")
+          .map((item) => item.trim())
+          .filter(Boolean),
+      });
+
+      toast.success("Relief camp registered successfully!");
+
+      setShelterForm({
+        name: "",
+        district: user?.district || "",
+        address: "",
+        capacity: "",
+        lng: "",
+        lat: "",
+        contactPhone: "",
+        facilities: "",
+      });
+
+      await load();
+    } catch (err) {
+      toast.error(
+        err.response?.data?.message ||
+          "Could not register relief camp"
+      );
+    } finally {
+      setCreatingShelter(false);
+    }
+  };
+  const handleCreateResource = async (e) => {
+  e.preventDefault();
+
+  const quantity = Number(resourceForm.quantity);
+
+  if (
+    !resourceForm.name.trim() ||
+    !resourceForm.district.trim() ||
+    !Number.isFinite(quantity) ||
+    quantity < 0
+  ) {
+    toast.error("Please enter valid resource details");
+    return;
+  }
+
+  setCreatingResource(true);
+
+  try {
+    await apiClient.post("/resource", {
+      name: resourceForm.name.trim(),
+      category: resourceForm.category,
+      quantity,
+      unit: resourceForm.unit.trim() || "units",
+      district: resourceForm.district.trim(),
+    });
+
+    toast.success("Resource added successfully!");
+
+    setResourceForm({
+      name: "",
+      category: "food",
+      quantity: "",
+      unit: "packets",
+      district: user?.district || "",
+    });
+
+    await load();
+  } catch (err) {
+    toast.error(
+      err.response?.data?.message || "Could not add resource"
+    );
+  } finally {
+    setCreatingResource(false);
+  }
+};
+
   const updateResponseForm = (requestId, field, value) => {
     setResponseForms((previous) => ({
       ...previous,
@@ -130,8 +265,8 @@ const NGODashboard = () => {
 
     try {
       await apiClient.put(`/ngo/requests/${request._id}`, {
-  status: "accepted",
-});
+        status: "accepted",
+      });
 
       toast.success("Emergency request accepted");
       await load();
@@ -310,8 +445,6 @@ const NGODashboard = () => {
 
             return (
               <article key={request._id} className="card space-y-5">
-                {/* REQUEST DETAILS */}
-
                 <div className="flex flex-wrap items-start justify-between gap-3">
                   <div>
                     <h3 className="font-semibold text-river-900">
@@ -632,6 +765,230 @@ const NGODashboard = () => {
         </div>
       </section>
 
+      {/* REGISTER RELIEF CAMP */}
+
+      <section className="card mt-10 space-y-4">
+        <div>
+          <h2 className="font-display text-xl font-semibold text-river-900">
+            Register a relief camp
+          </h2>
+
+          <p className="mt-1 text-sm text-ink/60">
+            Add your organization's relief camp to the Jeevan Link network.
+          </p>
+        </div>
+
+        <form onSubmit={handleCreateShelter} className="space-y-3">
+          <input
+            className="input"
+            placeholder="Camp name *"
+            value={shelterForm.name}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                name: e.target.value,
+              })
+            }
+            required
+          />
+
+          <input
+            className="input"
+            placeholder="District *"
+            value={shelterForm.district}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                district: e.target.value,
+              })
+            }
+            required
+          />
+
+          <textarea
+            className="input"
+            rows={2}
+            placeholder="Full camp address *"
+            value={shelterForm.address}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                address: e.target.value,
+              })
+            }
+            required
+          />
+
+          <input
+            className="input"
+            type="number"
+            min="1"
+            step="1"
+            placeholder="Total capacity *"
+            value={shelterForm.capacity}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                capacity: e.target.value,
+              })
+            }
+            required
+          />
+
+          <div className="grid gap-3 sm:grid-cols-2">
+            <input
+              className="input"
+              type="number"
+              step="any"
+              min="-180"
+              max="180"
+              placeholder="Longitude *"
+              value={shelterForm.lng}
+              onChange={(e) =>
+                setShelterForm({
+                  ...shelterForm,
+                  lng: e.target.value,
+                })
+              }
+              required
+            />
+
+            <input
+              className="input"
+              type="number"
+              step="any"
+              min="-90"
+              max="90"
+              placeholder="Latitude *"
+              value={shelterForm.lat}
+              onChange={(e) =>
+                setShelterForm({
+                  ...shelterForm,
+                  lat: e.target.value,
+                })
+              }
+              required
+            />
+          </div>
+
+          <input
+            className="input"
+            type="tel"
+            placeholder="Contact phone (optional)"
+            value={shelterForm.contactPhone}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                contactPhone: e.target.value,
+              })
+            }
+          />
+
+          <input
+            className="input"
+            placeholder="Facilities (comma separated, e.g. Food, Water, Medical)"
+            value={shelterForm.facilities}
+            onChange={(e) =>
+              setShelterForm({
+                ...shelterForm,
+                facilities: e.target.value,
+              })
+            }
+          />
+
+          <button
+            type="submit"
+            disabled={creatingShelter}
+            className="btn-primary"
+          >
+            {creatingShelter
+              ? "Registering..."
+              : "Register relief camp"}
+          </button>
+        </form>
+      </section>
+
+      {/* ADD RESOURCE STOCK */}
+
+<section className="card mt-10 space-y-4">
+  <div>
+    <h2 className="font-display text-xl font-semibold text-river-900">
+      Add Resource Stock
+    </h2>
+    <p className="mt-1 text-sm text-ink/60">
+      Register food, water, medical supplies and other relief materials.
+    </p>
+  </div>
+
+  <form onSubmit={handleCreateResource} className="space-y-3">
+    <input
+      className="input"
+      placeholder="Resource name (e.g. Rice, Drinking Water)"
+      value={resourceForm.name}
+      onChange={(e) =>
+        setResourceForm({ ...resourceForm, name: e.target.value })
+      }
+      required
+    />
+
+    <select
+      className="input"
+      value={resourceForm.category}
+      onChange={(e) =>
+        setResourceForm({ ...resourceForm, category: e.target.value })
+      }
+    >
+      <option value="food">Food</option>
+      <option value="water">Water</option>
+      <option value="medical">Medical</option>
+      <option value="clothing">Clothing</option>
+      <option value="shelter_material">Shelter Material</option>
+      <option value="other">Other</option>
+    </select>
+
+    <div className="grid gap-3 sm:grid-cols-2">
+      <input
+        className="input"
+        type="number"
+        min="0"
+        step="any"
+        placeholder="Quantity"
+        value={resourceForm.quantity}
+        onChange={(e) =>
+          setResourceForm({ ...resourceForm, quantity: e.target.value })
+        }
+        required
+      />
+
+      <input
+        className="input"
+        placeholder="Unit (kg, litres, packets)"
+        value={resourceForm.unit}
+        onChange={(e) =>
+          setResourceForm({ ...resourceForm, unit: e.target.value })
+        }
+      />
+    </div>
+
+    <input
+      className="input"
+      placeholder="District"
+      value={resourceForm.district}
+      onChange={(e) =>
+        setResourceForm({ ...resourceForm, district: e.target.value })
+      }
+      required
+    />
+
+    <button
+      type="submit"
+      disabled={creatingResource}
+      className="btn-primary"
+    >
+      {creatingResource ? "Adding..." : "Add Resource"}
+    </button>
+  </form>
+</section>
       {/* RELIEF CAMPS AND RESOURCES */}
 
       <div className="mt-10 grid gap-8 lg:grid-cols-2">
@@ -724,4 +1081,3 @@ const NGODashboard = () => {
 };
 
 export default NGODashboard;
-

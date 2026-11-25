@@ -34,7 +34,7 @@ const ReliefCamp = () => {
     <div className="mx-auto max-w-6xl px-4 py-10">
       <h1 className="font-display text-2xl font-semibold text-river-900">Live relief camp map</h1>
       <p className="mt-1 text-sm text-ink/60">
-        Shelters currently registered on JalRakshak. Tap a marker for capacity and contact details.
+        Shelters currently registered on JeevanLink. Tap a marker for capacity and contact details.
       </p>
 
       {alerts.length > 0 && (
